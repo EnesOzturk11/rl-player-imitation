@@ -1,0 +1,5252 @@
+[
+  {
+    "frame": 0,
+    "tracker_id": -1,
+    "position_x": 399.38671875,
+    "position_y": 2879.302215576172,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 1,
+    "tracker_id": -1,
+    "position_x": 420.64095052083303,
+    "position_y": 2838.9383544921875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 2,
+    "tracker_id": -1,
+    "position_x": 448.3455810546875,
+    "position_y": 2772.2246856689453,
+    "direction_deg": 0.0
+  },
+  {
+    "frame": 3,
+    "tracker_id": -1,
+    "position_x": 477.28017578125036,
+    "position_y": 2701.2901611328125,
+    "direction_deg": 67.64689636230469
+  },
+  {
+    "frame": 4,
+    "tracker_id": -1,
+    "position_x": 527.2255859375,
+    "position_y": 2577.599401855469,
+    "direction_deg": 75.23136901855469
+  },
+  {
+    "frame": 5,
+    "tracker_id": -1,
+    "position_x": 589.5896484374998,
+    "position_y": 2420.4323120117188,
+    "direction_deg": 74.46319580078125
+  },
+  {
+    "frame": 6,
+    "tracker_id": -1,
+    "position_x": 650.1279296875,
+    "position_y": 2263.7335205078125,
+    "direction_deg": 75.76727294921875
+  },
+  {
+    "frame": 7,
+    "tracker_id": -1,
+    "position_x": 706.9901367187504,
+    "position_y": 2113.465246582031,
+    "direction_deg": 76.16697692871094
+  },
+  {
+    "frame": 8,
+    "tracker_id": -1,
+    "position_x": 751.54052734375,
+    "position_y": 1994.1032958984374,
+    "direction_deg": 70.81536865234375
+  },
+  {
+    "frame": 9,
+    "tracker_id": -1,
+    "position_x": 805.8517578125002,
+    "position_y": 1843.312646484375,
+    "direction_deg": 77.2169418334961
+  },
+  {
+    "frame": 10,
+    "tracker_id": -1,
+    "position_x": 857.2423828125002,
+    "position_y": 1695.9055908203125,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 11,
+    "tracker_id": -1,
+    "position_x": 906.3296874999996,
+    "position_y": 1539.276611328125,
+    "direction_deg": 76.7604751586914
+  },
+  {
+    "frame": 12,
+    "tracker_id": -1,
+    "position_x": 954.0452148437498,
+    "position_y": 1382.6252685546872,
+    "direction_deg": 79.01536560058594
+  },
+  {
+    "frame": 13,
+    "tracker_id": -1,
+    "position_x": 1009.2762695312504,
+    "position_y": 1199.713232421875,
+    "direction_deg": 80.86197662353516
+  },
+  {
+    "frame": 14,
+    "tracker_id": -1,
+    "position_x": 1049.7939453125,
+    "position_y": 1050.7617431640624,
+    "direction_deg": 78.42181396484375
+  },
+  {
+    "frame": 15,
+    "tracker_id": -1,
+    "position_x": 1086.2252929687502,
+    "position_y": 902.3444335937502,
+    "direction_deg": 78.98284912109375
+  },
+  {
+    "frame": 16,
+    "tracker_id": -1,
+    "position_x": 1119.3525390625,
+    "position_y": 758.4035156250002,
+    "direction_deg": 81.96244812011719
+  },
+  {
+    "frame": 17,
+    "tracker_id": -1,
+    "position_x": 1148.9137695312502,
+    "position_y": 617.4313476562502,
+    "direction_deg": 80.95568084716797
+  },
+  {
+    "frame": 18,
+    "tracker_id": -1,
+    "position_x": 1168.6268554687504,
+    "position_y": 495.6943847656248,
+    "direction_deg": 83.5711898803711
+  },
+  {
+    "frame": 19,
+    "tracker_id": -1,
+    "position_x": 1171.9250976562498,
+    "position_y": 418.5429199218752,
+    "direction_deg": 85.66077423095703
+  },
+  {
+    "frame": 20,
+    "tracker_id": -1,
+    "position_x": 1161.6722656250004,
+    "position_y": 393.1228515624998,
+    "direction_deg": 127.65223693847656
+  },
+  {
+    "frame": 21,
+    "tracker_id": -1,
+    "position_x": 1134.9967773437502,
+    "position_y": 413.1043457031251,
+    "direction_deg": -126.3340835571289
+  },
+  {
+    "frame": 22,
+    "tracker_id": -1,
+    "position_x": 1093.0515624999998,
+    "position_y": 476.7166503906251,
+    "direction_deg": -119.57247924804688
+  },
+  {
+    "frame": 23,
+    "tracker_id": -1,
+    "position_x": 1042.669921875,
+    "position_y": 562.3661621093752,
+    "direction_deg": -127.32015228271484
+  },
+  {
+    "frame": 24,
+    "tracker_id": -1,
+    "position_x": 991.1727539062504,
+    "position_y": 644.360595703125,
+    "direction_deg": -132.36056518554688
+  },
+  {
+    "frame": 25,
+    "tracker_id": -1,
+    "position_x": 934.4744140624998,
+    "position_y": 714.5248046874999,
+    "direction_deg": -134.13919067382812
+  },
+  {
+    "frame": 26,
+    "tracker_id": -1,
+    "position_x": 876.8612304687504,
+    "position_y": 778.2288085937498,
+    "direction_deg": -134.97286987304688
+  },
+  {
+    "frame": 27,
+    "tracker_id": -1,
+    "position_x": 815.6236328124996,
+    "position_y": 830.1974609375002,
+    "direction_deg": -147.97633361816406
+  },
+  {
+    "frame": 28,
+    "tracker_id": -1,
+    "position_x": 753.0687500000004,
+    "position_y": 871.1304687500001,
+    "direction_deg": -146.97509765625
+  },
+  {
+    "frame": 29,
+    "tracker_id": -1,
+    "position_x": 688.5386718749996,
+    "position_y": 906.4883789062501,
+    "direction_deg": -163.4413299560547
+  },
+  {
+    "frame": 30,
+    "tracker_id": -1,
+    "position_x": 625.9519531249998,
+    "position_y": 933.6509765625001,
+    "direction_deg": -161.3721466064453
+  },
+  {
+    "frame": 31,
+    "tracker_id": -1,
+    "position_x": 561.5183593749998,
+    "position_y": 949.0422851562498,
+    "direction_deg": -153.9042510986328
+  },
+  {
+    "frame": 32,
+    "tracker_id": -1,
+    "position_x": 499.6594726562498,
+    "position_y": 957.6437011718749,
+    "direction_deg": -177.13206481933594
+  },
+  {
+    "frame": 33,
+    "tracker_id": -1,
+    "position_x": 449.8869140625002,
+    "position_y": 962.26904296875,
+    "direction_deg": 176.19009399414062
+  },
+  {
+    "frame": 34,
+    "tracker_id": -1,
+    "position_x": 413.3440429687498,
+    "position_y": 960.2766601562498,
+    "direction_deg": 166.9054718017578
+  },
+  {
+    "frame": 35,
+    "tracker_id": -1,
+    "position_x": 353.95703125,
+    "position_y": 942.6318847656248,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 36,
+    "tracker_id": -1,
+    "position_x": 296.99765624999964,
+    "position_y": 916.3770996093749,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 37,
+    "tracker_id": -1,
+    "position_x": 238.80205078124982,
+    "position_y": 881.2908203124998,
+    "direction_deg": 162.27195739746094
+  },
+  {
+    "frame": 38,
+    "tracker_id": -1,
+    "position_x": 169.39384765624982,
+    "position_y": 832.6604492187498,
+    "direction_deg": 144.12002563476562
+  },
+  {
+    "frame": 39,
+    "tracker_id": -1,
+    "position_x": 88.98496093749964,
+    "position_y": 773.5416015625001,
+    "direction_deg": 156.1261749267578
+  },
+  {
+    "frame": 40,
+    "tracker_id": -1,
+    "position_x": 31.733105468750182,
+    "position_y": 714.70263671875,
+    "direction_deg": 136.96041870117188
+  },
+  {
+    "frame": 41,
+    "tracker_id": -1,
+    "position_x": -412.8317382812502,
+    "position_y": 855.9404052734376,
+    "direction_deg": 142.60455322265625
+  },
+  {
+    "frame": 42,
+    "tracker_id": -1,
+    "position_x": -844.1393554687502,
+    "position_y": 1008.9833740234376,
+    "direction_deg": 137.5050048828125
+  },
+  {
+    "frame": 43,
+    "tracker_id": -1,
+    "position_x": -895.4177734374998,
+    "position_y": 938.1763916015625,
+    "direction_deg": -154.66165161132812
+  },
+  {
+    "frame": 44,
+    "tracker_id": -1,
+    "position_x": -945.1276367187502,
+    "position_y": 865.3449951171874,
+    "direction_deg": 170.93397521972656
+  },
+  {
+    "frame": 45,
+    "tracker_id": -1,
+    "position_x": -983.7344726562496,
+    "position_y": 805.8813720703124,
+    "direction_deg": 32.782135009765625
+  },
+  {
+    "frame": 46,
+    "tracker_id": -1,
+    "position_x": -646.1593750000002,
+    "position_y": 537.3096191406248,
+    "direction_deg": 132.52207946777344
+  },
+  {
+    "frame": 47,
+    "tracker_id": -1,
+    "position_x": -319.81552734374964,
+    "position_y": 264.7461914062501,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 48,
+    "tracker_id": -1,
+    "position_x": -362.2882812500002,
+    "position_y": 229.5768066406249,
+    "direction_deg": 143.52105712890625
+  },
+  {
+    "frame": 49,
+    "tracker_id": -1,
+    "position_x": -416.6711914062498,
+    "position_y": 186.9507812500001,
+    "direction_deg": 162.2204132080078
+  },
+  {
+    "frame": 50,
+    "tracker_id": -1,
+    "position_x": -482.10546875,
+    "position_y": 138.9912109375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 51,
+    "tracker_id": -1,
+    "position_x": -534.0111328125004,
+    "position_y": 113.789794921875,
+    "direction_deg": 143.1902313232422
+  },
+  {
+    "frame": 52,
+    "tracker_id": -1,
+    "position_x": -584.8571289062502,
+    "position_y": 94.74384765625018,
+    "direction_deg": 161.21572875976562
+  },
+  {
+    "frame": 53,
+    "tracker_id": -1,
+    "position_x": -643.9387695312498,
+    "position_y": 75.48032226562509,
+    "direction_deg": -162.4961395263672
+  },
+  {
+    "frame": 54,
+    "tracker_id": -1,
+    "position_x": -690.00927734375,
+    "position_y": 77.40683593750009,
+    "direction_deg": -169.45883178710938
+  },
+  {
+    "frame": 55,
+    "tracker_id": -1,
+    "position_x": -725.3042968749996,
+    "position_y": 83.4306640625,
+    "direction_deg": -178.12127685546875
+  },
+  {
+    "frame": 56,
+    "tracker_id": -1,
+    "position_x": -766.7400390624998,
+    "position_y": 84.42221679687509,
+    "direction_deg": -174.6548614501953
+  },
+  {
+    "frame": 57,
+    "tracker_id": -1,
+    "position_x": -807.2239257812498,
+    "position_y": 79.119873046875,
+    "direction_deg": 171.16531372070312
+  },
+  {
+    "frame": 58,
+    "tracker_id": -1,
+    "position_x": -840.3521484374996,
+    "position_y": 70.41982421874991,
+    "direction_deg": -179.32797241210938
+  },
+  {
+    "frame": 59,
+    "tracker_id": -1,
+    "position_x": -872.07470703125,
+    "position_y": 52.66171875000009,
+    "direction_deg": 160.9440460205078
+  },
+  {
+    "frame": 60,
+    "tracker_id": -1,
+    "position_x": -907.2872070312496,
+    "position_y": 40.17915039062518,
+    "direction_deg": 156.6288299560547
+  },
+  {
+    "frame": 61,
+    "tracker_id": -1,
+    "position_x": -933.9181640625002,
+    "position_y": 30.93198242187509,
+    "direction_deg": 146.3584442138672
+  },
+  {
+    "frame": 62,
+    "tracker_id": -1,
+    "position_x": -959.8279296874998,
+    "position_y": 27.10727539062509,
+    "direction_deg": 145.559814453125
+  },
+  {
+    "frame": 63,
+    "tracker_id": -1,
+    "position_x": -993.1216796874996,
+    "position_y": 30.91855468750009,
+    "direction_deg": -172.52450561523438
+  },
+  {
+    "frame": 64,
+    "tracker_id": -1,
+    "position_x": -1026.7883789062498,
+    "position_y": 43.68588867187509,
+    "direction_deg": -165.5046844482422
+  },
+  {
+    "frame": 65,
+    "tracker_id": -1,
+    "position_x": -1063.2760742187502,
+    "position_y": 49.48989257812491,
+    "direction_deg": -156.85403442382812
+  },
+  {
+    "frame": 66,
+    "tracker_id": -1,
+    "position_x": -1092.7664062499998,
+    "position_y": 60.01723632812491,
+    "direction_deg": -171.8714141845703
+  },
+  {
+    "frame": 67,
+    "tracker_id": -1,
+    "position_x": -1113.64501953125,
+    "position_y": 74.549560546875,
+    "direction_deg": 167.0504913330078
+  },
+  {
+    "frame": 68,
+    "tracker_id": -1,
+    "position_x": -1126.0455078124996,
+    "position_y": 87.27626953124991,
+    "direction_deg": -107.7481460571289
+  },
+  {
+    "frame": 69,
+    "tracker_id": -1,
+    "position_x": -1131.1475585937496,
+    "position_y": 98.88447265625018,
+    "direction_deg": -123.8823013305664
+  },
+  {
+    "frame": 70,
+    "tracker_id": -1,
+    "position_x": -1129.6627929687502,
+    "position_y": 113.41669921875018,
+    "direction_deg": -119.28514862060548
+  },
+  {
+    "frame": 71,
+    "tracker_id": -1,
+    "position_x": -1128.5857421874998,
+    "position_y": 121.159912109375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 72,
+    "tracker_id": -1,
+    "position_x": -1125.5906249999998,
+    "position_y": 129.51953125,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 73,
+    "tracker_id": -1,
+    "position_x": -1124.9375976562496,
+    "position_y": 135.7108398437499,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 74,
+    "tracker_id": -1,
+    "position_x": -1122.8537109375002,
+    "position_y": 140.43359375,
+    "direction_deg": -117.46077728271484
+  },
+  {
+    "frame": 75,
+    "tracker_id": -1,
+    "position_x": -1119.37744140625,
+    "position_y": 142.0152832031249,
+    "direction_deg": 95.69051361083984
+  },
+  {
+    "frame": 76,
+    "tracker_id": -1,
+    "position_x": -1114.2765625000002,
+    "position_y": 141.93842773437518,
+    "direction_deg": 73.78511047363281
+  },
+  {
+    "frame": 77,
+    "tracker_id": -1,
+    "position_x": -1109.8882812499996,
+    "position_y": 129.51025390625,
+    "direction_deg": 70.6962890625
+  },
+  {
+    "frame": 78,
+    "tracker_id": -1,
+    "position_x": -1103.3720703125,
+    "position_y": 117.03530273437491,
+    "direction_deg": 80.43778228759766
+  },
+  {
+    "frame": 79,
+    "tracker_id": -1,
+    "position_x": -1098.2867187499996,
+    "position_y": 106.02890625000009,
+    "direction_deg": 77.38648986816406
+  },
+  {
+    "frame": 80,
+    "tracker_id": -1,
+    "position_x": -1094.59375,
+    "position_y": 98.16357421875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 81,
+    "tracker_id": -1,
+    "position_x": -1092.525390625,
+    "position_y": 91.956787109375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 82,
+    "tracker_id": -1,
+    "position_x": -1077.1307617187504,
+    "position_y": 56.56367187500018,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 83,
+    "tracker_id": -1,
+    "position_x": -1074.2439453124998,
+    "position_y": 4.344384765624909,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 84,
+    "tracker_id": -1,
+    "position_x": -1070.99560546875,
+    "position_y": -49.4443359375,
+    "direction_deg": 73.64527893066406
+  },
+  {
+    "frame": 85,
+    "tracker_id": -1,
+    "position_x": -1066.783203125,
+    "position_y": -101.65898437499982,
+    "direction_deg": 79.42728424072266
+  },
+  {
+    "frame": 86,
+    "tracker_id": -1,
+    "position_x": -1060.2533203125004,
+    "position_y": -157.4603027343751,
+    "direction_deg": 82.55364227294922
+  },
+  {
+    "frame": 87,
+    "tracker_id": -1,
+    "position_x": -1068.7354492187496,
+    "position_y": -187.11162109374982,
+    "direction_deg": 105.84369659423828
+  },
+  {
+    "frame": 88,
+    "tracker_id": -1,
+    "position_x": -1066.35302734375,
+    "position_y": -204.4259277343749,
+    "direction_deg": 93.4919891357422
+  },
+  {
+    "frame": 89,
+    "tracker_id": -1,
+    "position_x": -1066.2059570312504,
+    "position_y": -223.8097167968749,
+    "direction_deg": 92.6582489013672
+  },
+  {
+    "frame": 90,
+    "tracker_id": -1,
+    "position_x": -1067.9363281249998,
+    "position_y": -248.19208984375018,
+    "direction_deg": 115.9750518798828
+  },
+  {
+    "frame": 91,
+    "tracker_id": -1,
+    "position_x": -1073.4236328124998,
+    "position_y": -274.5611816406249,
+    "direction_deg": 110.91207885742188
+  },
+  {
+    "frame": 92,
+    "tracker_id": -1,
+    "position_x": -1080.8506835937496,
+    "position_y": -300.1862304687502,
+    "direction_deg": 105.36449432373048
+  },
+  {
+    "frame": 93,
+    "tracker_id": -1,
+    "position_x": -1085.6276367187502,
+    "position_y": -326.5901367187498,
+    "direction_deg": 106.32709503173828
+  },
+  {
+    "frame": 94,
+    "tracker_id": -1,
+    "position_x": -1088.43798828125,
+    "position_y": -357.6302734374999,
+    "direction_deg": 102.1224594116211
+  },
+  {
+    "frame": 95,
+    "tracker_id": -1,
+    "position_x": -1090.5930664062498,
+    "position_y": -389.7744140625,
+    "direction_deg": 90.0245361328125
+  },
+  {
+    "frame": 96,
+    "tracker_id": -1,
+    "position_x": -1092.5632812499998,
+    "position_y": -418.6094726562501,
+    "direction_deg": 98.91273498535156
+  },
+  {
+    "frame": 97,
+    "tracker_id": -1,
+    "position_x": -1094.4649414062496,
+    "position_y": -444.1627441406249,
+    "direction_deg": 107.8048324584961
+  },
+  {
+    "frame": 98,
+    "tracker_id": -1,
+    "position_x": -1098.212890625,
+    "position_y": -469.7149902343749,
+    "direction_deg": 132.30043029785156
+  },
+  {
+    "frame": 99,
+    "tracker_id": -1,
+    "position_x": -1102.4632812500004,
+    "position_y": -490.9271972656252,
+    "direction_deg": 119.43041229248048
+  },
+  {
+    "frame": 100,
+    "tracker_id": -1,
+    "position_x": -1107.4732421874996,
+    "position_y": -514.0027832031251,
+    "direction_deg": 111.13200378417967
+  },
+  {
+    "frame": 101,
+    "tracker_id": -1,
+    "position_x": -1112.6456054687496,
+    "position_y": -539.781494140625,
+    "direction_deg": 108.7174835205078
+  },
+  {
+    "frame": 102,
+    "tracker_id": -1,
+    "position_x": -1117.6227539062502,
+    "position_y": -565.4395507812501,
+    "direction_deg": 100.9436492919922
+  },
+  {
+    "frame": 103,
+    "tracker_id": -1,
+    "position_x": -1122.8780273437496,
+    "position_y": -586.1126953124999,
+    "direction_deg": 111.10063934326172
+  },
+  {
+    "frame": 104,
+    "tracker_id": -1,
+    "position_x": -1128.140625,
+    "position_y": -608.8834472656249,
+    "direction_deg": 102.27271270751952
+  },
+  {
+    "frame": 105,
+    "tracker_id": -1,
+    "position_x": -1133.7580078125002,
+    "position_y": -630.2302734374998,
+    "direction_deg": 120.86380004882812
+  },
+  {
+    "frame": 106,
+    "tracker_id": -1,
+    "position_x": -1140.3163085937504,
+    "position_y": -648.673095703125,
+    "direction_deg": 102.92738342285156
+  },
+  {
+    "frame": 107,
+    "tracker_id": -1,
+    "position_x": -1147.1178710937502,
+    "position_y": -663.8204589843749,
+    "direction_deg": 100.87044525146484
+  },
+  {
+    "frame": 108,
+    "tracker_id": -1,
+    "position_x": -1153.8641113281246,
+    "position_y": -684.3358398437499,
+    "direction_deg": 110.98941802978516
+  },
+  {
+    "frame": 109,
+    "tracker_id": -1,
+    "position_x": -1161.2693359374998,
+    "position_y": -701.6341308593746,
+    "direction_deg": 118.21723175048828
+  },
+  {
+    "frame": 110,
+    "tracker_id": -1,
+    "position_x": -1167.5765625,
+    "position_y": -730.28369140625,
+    "direction_deg": 99.29462432861328
+  },
+  {
+    "frame": 111,
+    "tracker_id": -1,
+    "position_x": -1171.4056640625,
+    "position_y": -760.0032226562498,
+    "direction_deg": 106.2581558227539
+  },
+  {
+    "frame": 112,
+    "tracker_id": -1,
+    "position_x": -1175.1741210937498,
+    "position_y": -781.1680664062496,
+    "direction_deg": 103.175537109375
+  },
+  {
+    "frame": 113,
+    "tracker_id": -1,
+    "position_x": -1178.4636718749998,
+    "position_y": -802.8249023437502,
+    "direction_deg": 73.44937133789062
+  },
+  {
+    "frame": 114,
+    "tracker_id": -1,
+    "position_x": -1181.245947265625,
+    "position_y": -824.5606445312496,
+    "direction_deg": 100.3473663330078
+  },
+  {
+    "frame": 115,
+    "tracker_id": -1,
+    "position_x": -1182.936865234375,
+    "position_y": -833.8175781250002,
+    "direction_deg": 91.53304290771484
+  },
+  {
+    "frame": 116,
+    "tracker_id": -1,
+    "position_x": -1183.75244140625,
+    "position_y": -847.0270507812502,
+    "direction_deg": 87.06415557861328
+  },
+  {
+    "frame": 117,
+    "tracker_id": -1,
+    "position_x": -1182.3690917968752,
+    "position_y": -872.9913085937496,
+    "direction_deg": 86.43647766113281
+  },
+  {
+    "frame": 118,
+    "tracker_id": -1,
+    "position_x": -1180.15234375,
+    "position_y": -896.7005859375004,
+    "direction_deg": 84.69284057617188
+  },
+  {
+    "frame": 119,
+    "tracker_id": -1,
+    "position_x": -1179.1032226562502,
+    "position_y": -921.0041015625002,
+    "direction_deg": 81.55311584472656
+  },
+  {
+    "frame": 120,
+    "tracker_id": -1,
+    "position_x": -1179.4234375,
+    "position_y": -943.6495117187496,
+    "direction_deg": 88.94052124023438
+  },
+  {
+    "frame": 121,
+    "tracker_id": -1,
+    "position_x": -1181.308203125,
+    "position_y": -965.5604492187504,
+    "direction_deg": 87.48827362060547
+  },
+  {
+    "frame": 122,
+    "tracker_id": -1,
+    "position_x": -1184.08984375,
+    "position_y": -987.6773437499996,
+    "direction_deg": 93.98643493652344
+  },
+  {
+    "frame": 123,
+    "tracker_id": -1,
+    "position_x": -1186.784033203125,
+    "position_y": -1010.3132812499998,
+    "direction_deg": 89.1050796508789
+  },
+  {
+    "frame": 124,
+    "tracker_id": -1,
+    "position_x": -1188.090576171875,
+    "position_y": -1035.4876953125004,
+    "direction_deg": 81.21632385253906
+  },
+  {
+    "frame": 125,
+    "tracker_id": -1,
+    "position_x": -1189.2526367187502,
+    "position_y": -1063.45166015625,
+    "direction_deg": 81.74793243408203
+  },
+  {
+    "frame": 126,
+    "tracker_id": -1,
+    "position_x": -1189.065087890625,
+    "position_y": -1087.9315429687504,
+    "direction_deg": 78.67009735107422
+  },
+  {
+    "frame": 127,
+    "tracker_id": -1,
+    "position_x": -1188.9849609375,
+    "position_y": -1108.9347656250002,
+    "direction_deg": 88.77042388916016
+  },
+  {
+    "frame": 128,
+    "tracker_id": -1,
+    "position_x": -1184.0212890624998,
+    "position_y": -1133.6028320312498,
+    "direction_deg": 82.0183334350586
+  },
+  {
+    "frame": 129,
+    "tracker_id": -1,
+    "position_x": -1178.7089355468752,
+    "position_y": -1152.24365234375,
+    "direction_deg": 80.4260025024414
+  },
+  {
+    "frame": 130,
+    "tracker_id": -1,
+    "position_x": -1162.0962890625,
+    "position_y": -1188.2004882812498,
+    "direction_deg": 55.345645904541016
+  },
+  {
+    "frame": 131,
+    "tracker_id": -1,
+    "position_x": -1142.2879882812504,
+    "position_y": -1232.6043945312504,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 132,
+    "tracker_id": -1,
+    "position_x": -1117.4315429687504,
+    "position_y": -1285.0852539062498,
+    "direction_deg": 57.17778396606445
+  },
+  {
+    "frame": 133,
+    "tracker_id": -1,
+    "position_x": -1093.8090332031252,
+    "position_y": -1335.7899414062504,
+    "direction_deg": 59.43301010131836
+  },
+  {
+    "frame": 134,
+    "tracker_id": -1,
+    "position_x": -1066.2326171875002,
+    "position_y": -1392.5948242187496,
+    "direction_deg": 58.0584831237793
+  },
+  {
+    "frame": 135,
+    "tracker_id": -1,
+    "position_x": -1046.2306640625002,
+    "position_y": -1433.4562500000002,
+    "direction_deg": 48.94663619995117
+  },
+  {
+    "frame": 136,
+    "tracker_id": -1,
+    "position_x": -1025.5228515625004,
+    "position_y": -1474.8546875000002,
+    "direction_deg": 46.63278198242188
+  },
+  {
+    "frame": 137,
+    "tracker_id": -1,
+    "position_x": -1005.3201171874998,
+    "position_y": -1513.8049804687498,
+    "direction_deg": 47.229583740234375
+  },
+  {
+    "frame": 138,
+    "tracker_id": -1,
+    "position_x": -987.3427734375,
+    "position_y": -1555.8633789062496,
+    "direction_deg": 59.0018196105957
+  },
+  {
+    "frame": 139,
+    "tracker_id": -1,
+    "position_x": -969.86083984375,
+    "position_y": -1598.58349609375,
+    "direction_deg": 56.1199951171875
+  },
+  {
+    "frame": 140,
+    "tracker_id": -1,
+    "position_x": -948.9029296874996,
+    "position_y": -1644.2824218750002,
+    "direction_deg": 57.48015594482422
+  },
+  {
+    "frame": 141,
+    "tracker_id": -1,
+    "position_x": -926.9709960937498,
+    "position_y": -1699.9235351562502,
+    "direction_deg": 47.662071228027344
+  },
+  {
+    "frame": 142,
+    "tracker_id": -1,
+    "position_x": -904.9981445312496,
+    "position_y": -1757.7380859374998,
+    "direction_deg": 58.83243179321289
+  },
+  {
+    "frame": 143,
+    "tracker_id": -1,
+    "position_x": -882.2742187499998,
+    "position_y": -1797.9227539062504,
+    "direction_deg": 55.523223876953125
+  },
+  {
+    "frame": 144,
+    "tracker_id": -1,
+    "position_x": -859.1868164062498,
+    "position_y": -1837.283203125,
+    "direction_deg": 61.24636459350586
+  },
+  {
+    "frame": 145,
+    "tracker_id": -1,
+    "position_x": -839.2042968750002,
+    "position_y": -1874.4063476562496,
+    "direction_deg": 55.523887634277344
+  },
+  {
+    "frame": 146,
+    "tracker_id": -1,
+    "position_x": -819.2711914062502,
+    "position_y": -1912.5921875000004,
+    "direction_deg": 50.00658416748047
+  },
+  {
+    "frame": 147,
+    "tracker_id": -1,
+    "position_x": -802.17578125,
+    "position_y": -1931.4553710937498,
+    "direction_deg": 54.76117706298828
+  },
+  {
+    "frame": 148,
+    "tracker_id": -1,
+    "position_x": -784.2684570312504,
+    "position_y": -1966.8359375,
+    "direction_deg": 56.783485412597656
+  },
+  {
+    "frame": 149,
+    "tracker_id": -1,
+    "position_x": -767.5921875000004,
+    "position_y": -2002.8269531249998,
+    "direction_deg": 54.249759674072266
+  },
+  {
+    "frame": 150,
+    "tracker_id": -1,
+    "position_x": -752.2254882812504,
+    "position_y": -2038.6432617187502,
+    "direction_deg": 56.01303482055664
+  },
+  {
+    "frame": 151,
+    "tracker_id": -1,
+    "position_x": -739.7985351562502,
+    "position_y": -2057.2972656250004,
+    "direction_deg": 51.81891250610352
+  },
+  {
+    "frame": 152,
+    "tracker_id": -1,
+    "position_x": -726.4471679687504,
+    "position_y": -2090.25322265625,
+    "direction_deg": 58.58853912353516
+  },
+  {
+    "frame": 153,
+    "tracker_id": -1,
+    "position_x": -713.9947265624996,
+    "position_y": -2120.36015625,
+    "direction_deg": 53.95980453491211
+  },
+  {
+    "frame": 154,
+    "tracker_id": -1,
+    "position_x": -701.9778320312498,
+    "position_y": -2149.3988281250004,
+    "direction_deg": 57.321895599365234
+  },
+  {
+    "frame": 155,
+    "tracker_id": -1,
+    "position_x": -690.3501953124996,
+    "position_y": -2175.03271484375,
+    "direction_deg": 54.82747268676758
+  },
+  {
+    "frame": 156,
+    "tracker_id": -1,
+    "position_x": -683.1798828125002,
+    "position_y": -2196.125,
+    "direction_deg": 56.14473724365234
+  },
+  {
+    "frame": 157,
+    "tracker_id": -1,
+    "position_x": -680.4245117187502,
+    "position_y": -2210.9208984375,
+    "direction_deg": 50.85870742797852
+  },
+  {
+    "frame": 158,
+    "tracker_id": -1,
+    "position_x": -678.56640625,
+    "position_y": -2238.5240234374996,
+    "direction_deg": 154.47512817382812
+  },
+  {
+    "frame": 159,
+    "tracker_id": -1,
+    "position_x": -680.0618164062498,
+    "position_y": -2261.9603515625004,
+    "direction_deg": -162.0731201171875
+  },
+  {
+    "frame": 160,
+    "tracker_id": -1,
+    "position_x": -684.7484375000004,
+    "position_y": -2282.1122070312504,
+    "direction_deg": 106.96720886230467
+  },
+  {
+    "frame": 161,
+    "tracker_id": -1,
+    "position_x": -688.17333984375,
+    "position_y": -2300.9451171875,
+    "direction_deg": 125.77171325683594
+  },
+  {
+    "frame": 162,
+    "tracker_id": -1,
+    "position_x": -690.0287109375004,
+    "position_y": -2321.3223632812496,
+    "direction_deg": 145.81777954101562
+  },
+  {
+    "frame": 163,
+    "tracker_id": -1,
+    "position_x": -694.6735351562502,
+    "position_y": -2325.1092773437504,
+    "direction_deg": 136.7607879638672
+  },
+  {
+    "frame": 164,
+    "tracker_id": -1,
+    "position_x": -698.2418945312502,
+    "position_y": -2327.8335937499996,
+    "direction_deg": 82.88433074951172
+  },
+  {
+    "frame": 165,
+    "tracker_id": -1,
+    "position_x": -701.8514648437504,
+    "position_y": -2330.7890625,
+    "direction_deg": 175.1212615966797
+  },
+  {
+    "frame": 166,
+    "tracker_id": -1,
+    "position_x": -706.6566406250004,
+    "position_y": -2335.09248046875,
+    "direction_deg": -96.6080551147461
+  },
+  {
+    "frame": 167,
+    "tracker_id": -1,
+    "position_x": -711.3817382812504,
+    "position_y": -2340.15654296875,
+    "direction_deg": -119.53543090820312
+  },
+  {
+    "frame": 168,
+    "tracker_id": -1,
+    "position_x": -714.9072265625,
+    "position_y": -2344.5923828124996,
+    "direction_deg": 132.77603149414062
+  },
+  {
+    "frame": 169,
+    "tracker_id": -1,
+    "position_x": -719.3636718750004,
+    "position_y": -2349.40205078125,
+    "direction_deg": 164.26339721679688
+  },
+  {
+    "frame": 170,
+    "tracker_id": -1,
+    "position_x": -723.8855468749998,
+    "position_y": -2353.9756835937496,
+    "direction_deg": -150.99697875976562
+  },
+  {
+    "frame": 171,
+    "tracker_id": -1,
+    "position_x": -727.6755859374998,
+    "position_y": -2357.8338867187504,
+    "direction_deg": -163.81854248046875
+  },
+  {
+    "frame": 172,
+    "tracker_id": -1,
+    "position_x": -731.9130859375,
+    "position_y": -2360.22685546875,
+    "direction_deg": -157.49392700195312
+  },
+  {
+    "frame": 173,
+    "tracker_id": -1,
+    "position_x": -737.0675781250002,
+    "position_y": -2362.1787109375,
+    "direction_deg": 166.45465087890625
+  },
+  {
+    "frame": 174,
+    "tracker_id": -1,
+    "position_x": -741.6126953125004,
+    "position_y": -2364.5298828124996,
+    "direction_deg": -166.15794372558594
+  },
+  {
+    "frame": 175,
+    "tracker_id": -1,
+    "position_x": -745.6580078124998,
+    "position_y": -2366.9447265625004,
+    "direction_deg": 151.01646423339844
+  },
+  {
+    "frame": 176,
+    "tracker_id": -1,
+    "position_x": -750.3723632812498,
+    "position_y": -2372.1034179687504,
+    "direction_deg": 136.09571838378906
+  },
+  {
+    "frame": 177,
+    "tracker_id": -1,
+    "position_x": -754.7642578124996,
+    "position_y": -2379.3318359375,
+    "direction_deg": 142.00762939453125
+  },
+  {
+    "frame": 178,
+    "tracker_id": -1,
+    "position_x": -758.7590820312498,
+    "position_y": -2389.5302734375,
+    "direction_deg": 120.35680389404295
+  },
+  {
+    "frame": 179,
+    "tracker_id": -1,
+    "position_x": -763.1173828125002,
+    "position_y": -2400.29326171875,
+    "direction_deg": 107.1649932861328
+  },
+  {
+    "frame": 180,
+    "tracker_id": -1,
+    "position_x": -767.4471679687504,
+    "position_y": -2412.4488281249996,
+    "direction_deg": 103.06282043457033
+  },
+  {
+    "frame": 181,
+    "tracker_id": -1,
+    "position_x": -770.8712890625002,
+    "position_y": -2423.1807617187496,
+    "direction_deg": 130.14468383789062
+  },
+  {
+    "frame": 182,
+    "tracker_id": -1,
+    "position_x": -774.8245117187498,
+    "position_y": -2433.3589843749996,
+    "direction_deg": 113.5062484741211
+  },
+  {
+    "frame": 183,
+    "tracker_id": -1,
+    "position_x": -778.9172851562498,
+    "position_y": -2440.58916015625,
+    "direction_deg": 122.42279815673828
+  },
+  {
+    "frame": 184,
+    "tracker_id": -1,
+    "position_x": -783.2852539062496,
+    "position_y": -2447.21904296875,
+    "direction_deg": 107.2606430053711
+  },
+  {
+    "frame": 185,
+    "tracker_id": -1,
+    "position_x": -792.4270507812498,
+    "position_y": -2452.5425781249996,
+    "direction_deg": 125.76599884033205
+  },
+  {
+    "frame": 186,
+    "tracker_id": -1,
+    "position_x": -810.6569335937502,
+    "position_y": -2447.15087890625,
+    "direction_deg": 136.38937377929688
+  },
+  {
+    "frame": 187,
+    "tracker_id": -1,
+    "position_x": -837.6527343750004,
+    "position_y": -2433.4638671875,
+    "direction_deg": 177.12315368652344
+  },
+  {
+    "frame": 188,
+    "tracker_id": -1,
+    "position_x": -873.6780273437498,
+    "position_y": -2412.2736328125,
+    "direction_deg": -139.52182006835938
+  },
+  {
+    "frame": 189,
+    "tracker_id": -1,
+    "position_x": -918.3053710937502,
+    "position_y": -2382.3654296875,
+    "direction_deg": -141.67538452148438
+  },
+  {
+    "frame": 190,
+    "tracker_id": -1,
+    "position_x": -966.9490234374998,
+    "position_y": -2345.725390625,
+    "direction_deg": -148.07655334472656
+  },
+  {
+    "frame": 191,
+    "tracker_id": -1,
+    "position_x": -1015.27685546875,
+    "position_y": -2310.21806640625,
+    "direction_deg": -141.05856323242188
+  },
+  {
+    "frame": 192,
+    "tracker_id": -1,
+    "position_x": -1063.3330078125,
+    "position_y": -2273.4623046875004,
+    "direction_deg": -144.97105407714844
+  },
+  {
+    "frame": 193,
+    "tracker_id": -1,
+    "position_x": -1109.7264160156246,
+    "position_y": -2239.8426757812504,
+    "direction_deg": -137.67369079589844
+  },
+  {
+    "frame": 194,
+    "tracker_id": -1,
+    "position_x": -1156.77236328125,
+    "position_y": -2191.55791015625,
+    "direction_deg": -138.29476928710938
+  },
+  {
+    "frame": 195,
+    "tracker_id": -1,
+    "position_x": -1202.637109375,
+    "position_y": -2143.6854492187504,
+    "direction_deg": -148.182861328125
+  },
+  {
+    "frame": 196,
+    "tracker_id": -1,
+    "position_x": -1247.0088378906248,
+    "position_y": -2096.5734375,
+    "direction_deg": -138.297607421875
+  },
+  {
+    "frame": 197,
+    "tracker_id": -1,
+    "position_x": -1292.057958984375,
+    "position_y": -2048.7544921874996,
+    "direction_deg": -143.80714416503906
+  },
+  {
+    "frame": 198,
+    "tracker_id": -1,
+    "position_x": -1335.29140625,
+    "position_y": -2000.4713867187502,
+    "direction_deg": -138.0989990234375
+  },
+  {
+    "frame": 199,
+    "tracker_id": -1,
+    "position_x": -1376.934912109375,
+    "position_y": -1965.7283203124998,
+    "direction_deg": -137.6453857421875
+  },
+  {
+    "frame": 200,
+    "tracker_id": -1,
+    "position_x": -1416.111669921875,
+    "position_y": -1935.6763671874996,
+    "direction_deg": -143.63137817382812
+  },
+  {
+    "frame": 201,
+    "tracker_id": -1,
+    "position_x": -1454.477685546875,
+    "position_y": -1906.7566406249998,
+    "direction_deg": -133.37144470214844
+  },
+  {
+    "frame": 202,
+    "tracker_id": -1,
+    "position_x": -1489.183251953125,
+    "position_y": -1879.3363281250004,
+    "direction_deg": -164.81927490234375
+  },
+  {
+    "frame": 203,
+    "tracker_id": -1,
+    "position_x": -1523.8293945312498,
+    "position_y": -1850.7650390625004,
+    "direction_deg": -141.41775512695312
+  },
+  {
+    "frame": 204,
+    "tracker_id": -1,
+    "position_x": -1555.913427734375,
+    "position_y": -1826.3635742187498,
+    "direction_deg": -135.1361083984375
+  },
+  {
+    "frame": 205,
+    "tracker_id": -1,
+    "position_x": -1588.587890625,
+    "position_y": -1797.9211914062498,
+    "direction_deg": -139.9639434814453
+  },
+  {
+    "frame": 206,
+    "tracker_id": -1,
+    "position_x": -1619.6135742187498,
+    "position_y": -1769.1219726562504,
+    "direction_deg": -140.99732971191406
+  },
+  {
+    "frame": 207,
+    "tracker_id": -1,
+    "position_x": -1650.103369140625,
+    "position_y": -1743.1424804687504,
+    "direction_deg": -134.21044921875
+  },
+  {
+    "frame": 208,
+    "tracker_id": -1,
+    "position_x": -1680.35107421875,
+    "position_y": -1717.2151367187498,
+    "direction_deg": -135.2628936767578
+  },
+  {
+    "frame": 209,
+    "tracker_id": -1,
+    "position_x": -1708.83251953125,
+    "position_y": -1689.9281250000004,
+    "direction_deg": -136.000732421875
+  },
+  {
+    "frame": 210,
+    "tracker_id": -1,
+    "position_x": -1737.0609375,
+    "position_y": -1660.7593749999996,
+    "direction_deg": -133.61474609375
+  },
+  {
+    "frame": 211,
+    "tracker_id": -1,
+    "position_x": -1759.7138671875,
+    "position_y": -1637.85107421875,
+    "direction_deg": -127.80274963378906
+  },
+  {
+    "frame": 212,
+    "tracker_id": -1,
+    "position_x": -1776.36142578125,
+    "position_y": -1619.3028320312496,
+    "direction_deg": -123.76941680908205
+  },
+  {
+    "frame": 213,
+    "tracker_id": -1,
+    "position_x": -1787.0386230468748,
+    "position_y": -1606.07373046875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 214,
+    "tracker_id": -1,
+    "position_x": -1793.297607421875,
+    "position_y": -1598.8896484375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 215,
+    "tracker_id": -1,
+    "position_x": -1291.0560546875,
+    "position_y": -1705.8428710937496,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 216,
+    "tracker_id": -1,
+    "position_x": -788.8145019531248,
+    "position_y": -1812.7960937500002,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 217,
+    "tracker_id": -1,
+    "position_x": -286.5729492187502,
+    "position_y": -1919.7493164062498,
+    "direction_deg": 11.261828422546388
+  },
+  {
+    "frame": 218,
+    "tracker_id": -1,
+    "position_x": -314.602783203125,
+    "position_y": -1888.1246093749996,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 219,
+    "tracker_id": -1,
+    "position_x": -345.155517578125,
+    "position_y": -1856.5255859375002,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 220,
+    "tracker_id": -1,
+    "position_x": -881.860595703125,
+    "position_y": -1712.6793945312502,
+    "direction_deg": -165.3123016357422
+  },
+  {
+    "frame": 221,
+    "tracker_id": -1,
+    "position_x": -1418.8295410156252,
+    "position_y": -1592.9683593749996,
+    "direction_deg": -102.76161193847656
+  },
+  {
+    "frame": 222,
+    "tracker_id": -1,
+    "position_x": -1960.1055175781248,
+    "position_y": -1470.2384765625002,
+    "direction_deg": -102.42247772216795
+  },
+  {
+    "frame": 223,
+    "tracker_id": -1,
+    "position_x": -1974.421044921875,
+    "position_y": -1484.1682617187498,
+    "direction_deg": -98.0345230102539
+  },
+  {
+    "frame": 224,
+    "tracker_id": -1,
+    "position_x": -1989.0126953125,
+    "position_y": -1500.6259765625,
+    "direction_deg": -101.21636199951172
+  },
+  {
+    "frame": 225,
+    "tracker_id": -1,
+    "position_x": -2002.8832519531252,
+    "position_y": -1517.14013671875,
+    "direction_deg": -98.8465576171875
+  },
+  {
+    "frame": 226,
+    "tracker_id": -1,
+    "position_x": -2018.939794921875,
+    "position_y": -1503.9283203124996,
+    "direction_deg": -94.1485824584961
+  },
+  {
+    "frame": 227,
+    "tracker_id": -1,
+    "position_x": -2028.066748046875,
+    "position_y": -1490.4470703124998,
+    "direction_deg": -101.75862884521484
+  },
+  {
+    "frame": 228,
+    "tracker_id": -1,
+    "position_x": -2037.4672363281252,
+    "position_y": -1473.74658203125,
+    "direction_deg": -100.0295181274414
+  },
+  {
+    "frame": 229,
+    "tracker_id": -1,
+    "position_x": -2047.978662109375,
+    "position_y": -1452.1892578124998,
+    "direction_deg": -94.9310073852539
+  },
+  {
+    "frame": 230,
+    "tracker_id": -1,
+    "position_x": -2058.455126953125,
+    "position_y": -1432.33642578125,
+    "direction_deg": -102.83968353271484
+  },
+  {
+    "frame": 231,
+    "tracker_id": -1,
+    "position_x": -2068.951708984375,
+    "position_y": -1413.6087890625004,
+    "direction_deg": -92.10745239257812
+  },
+  {
+    "frame": 232,
+    "tracker_id": -1,
+    "position_x": -2084.697705078125,
+    "position_y": -1396.69580078125,
+    "direction_deg": -105.37100219726562
+  },
+  {
+    "frame": 233,
+    "tracker_id": -1,
+    "position_x": -2099.4986328125,
+    "position_y": -1382.2066406249996,
+    "direction_deg": -101.3207550048828
+  },
+  {
+    "frame": 234,
+    "tracker_id": -1,
+    "position_x": -2112.661962890625,
+    "position_y": -1365.27978515625,
+    "direction_deg": -110.39795684814452
+  },
+  {
+    "frame": 235,
+    "tracker_id": -1,
+    "position_x": -2124.592822265625,
+    "position_y": -1348.1612304687496,
+    "direction_deg": -99.97764587402344
+  },
+  {
+    "frame": 236,
+    "tracker_id": -1,
+    "position_x": -2142.124072265625,
+    "position_y": -1334.20263671875,
+    "direction_deg": -91.31295776367188
+  },
+  {
+    "frame": 237,
+    "tracker_id": -1,
+    "position_x": -2154.229541015625,
+    "position_y": -1314.5806640624996,
+    "direction_deg": -100.2759246826172
+  },
+  {
+    "frame": 238,
+    "tracker_id": -1,
+    "position_x": -2170.893505859375,
+    "position_y": -1298.7222656249996,
+    "direction_deg": -95.96932220458984
+  },
+  {
+    "frame": 239,
+    "tracker_id": -1,
+    "position_x": -2187.92001953125,
+    "position_y": -1285.0524414062502,
+    "direction_deg": -87.45219421386719
+  },
+  {
+    "frame": 240,
+    "tracker_id": -1,
+    "position_x": -2204.022314453125,
+    "position_y": -1272.9181640625002,
+    "direction_deg": -96.36915588378906
+  },
+  {
+    "frame": 241,
+    "tracker_id": -1,
+    "position_x": -2214.104296875,
+    "position_y": -1259.88037109375,
+    "direction_deg": -92.14310455322266
+  },
+  {
+    "frame": 242,
+    "tracker_id": -1,
+    "position_x": -2230.0333984375,
+    "position_y": -1251.6490234374996,
+    "direction_deg": -88.54561614990234
+  },
+  {
+    "frame": 243,
+    "tracker_id": -1,
+    "position_x": -2240.45830078125,
+    "position_y": -1238.0416015624996,
+    "direction_deg": -74.19437408447266
+  },
+  {
+    "frame": 244,
+    "tracker_id": -1,
+    "position_x": -2250.41259765625,
+    "position_y": -1226.1559570312502,
+    "direction_deg": -89.83506774902344
+  },
+  {
+    "frame": 245,
+    "tracker_id": -1,
+    "position_x": -2261.858984375,
+    "position_y": -1214.7839843749998,
+    "direction_deg": -84.89835357666016
+  },
+  {
+    "frame": 246,
+    "tracker_id": -1,
+    "position_x": -2274.106201171875,
+    "position_y": -1201.6452148437502,
+    "direction_deg": -75.6823959350586
+  },
+  {
+    "frame": 247,
+    "tracker_id": -1,
+    "position_x": -2283.758984375,
+    "position_y": -1187.8576171875002,
+    "direction_deg": -78.21843719482422
+  },
+  {
+    "frame": 248,
+    "tracker_id": -1,
+    "position_x": -2291.71806640625,
+    "position_y": -1178.3961914062502,
+    "direction_deg": -85.07766723632812
+  },
+  {
+    "frame": 249,
+    "tracker_id": -1,
+    "position_x": -2293.24853515625,
+    "position_y": -1168.5643554687504,
+    "direction_deg": -59.90867233276367
+  },
+  {
+    "frame": 250,
+    "tracker_id": -1,
+    "position_x": -2292.2888671875,
+    "position_y": -1160.4080078124998,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 251,
+    "tracker_id": -1,
+    "position_x": -2288.4783203125,
+    "position_y": -1156.2276367187496,
+    "direction_deg": -28.266674041748047
+  },
+  {
+    "frame": 252,
+    "tracker_id": -1,
+    "position_x": -2275.213427734375,
+    "position_y": -1148.85302734375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 253,
+    "tracker_id": -1,
+    "position_x": -2261.94853515625,
+    "position_y": -1141.4784179687504,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 254,
+    "tracker_id": -1,
+    "position_x": -2252.94794921875,
+    "position_y": -1135.3047851562496,
+    "direction_deg": -29.09758186340332
+  },
+  {
+    "frame": 255,
+    "tracker_id": -1,
+    "position_x": -2234.709228515625,
+    "position_y": -1120.64990234375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 256,
+    "tracker_id": -1,
+    "position_x": -2213.209765625,
+    "position_y": -1106.2960937500002,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 257,
+    "tracker_id": -1,
+    "position_x": -2198.819970703125,
+    "position_y": -1096.4524414062498,
+    "direction_deg": -27.528270721435547
+  },
+  {
+    "frame": 258,
+    "tracker_id": -1,
+    "position_x": -2181.846875,
+    "position_y": -1082.6399414062498,
+    "direction_deg": -12.397205352783203
+  },
+  {
+    "frame": 259,
+    "tracker_id": -1,
+    "position_x": -2163.73515625,
+    "position_y": -1065.7664062499998,
+    "direction_deg": -23.90955924987793
+  },
+  {
+    "frame": 260,
+    "tracker_id": -1,
+    "position_x": -2151.637939453125,
+    "position_y": -1058.96435546875,
+    "direction_deg": -38.93887710571289
+  },
+  {
+    "frame": 261,
+    "tracker_id": -1,
+    "position_x": -2139.61484375,
+    "position_y": -1049.2639648437498,
+    "direction_deg": -30.22109603881836
+  },
+  {
+    "frame": 262,
+    "tracker_id": -1,
+    "position_x": -2126.535791015625,
+    "position_y": -1038.5811523437496,
+    "direction_deg": -9.410577774047852
+  },
+  {
+    "frame": 263,
+    "tracker_id": -1,
+    "position_x": -2113.094921875,
+    "position_y": -1032.201171875,
+    "direction_deg": -23.81130599975586
+  },
+  {
+    "frame": 264,
+    "tracker_id": -1,
+    "position_x": -2097.04111328125,
+    "position_y": -1028.5076171874998,
+    "direction_deg": -15.07819366455078
+  },
+  {
+    "frame": 265,
+    "tracker_id": -1,
+    "position_x": -2081.51787109375,
+    "position_y": -1021.0608398437498,
+    "direction_deg": -25.807132720947266
+  },
+  {
+    "frame": 266,
+    "tracker_id": -1,
+    "position_x": -2066.0013671875,
+    "position_y": -1014.9557617187502,
+    "direction_deg": -19.76340675354004
+  },
+  {
+    "frame": 267,
+    "tracker_id": -1,
+    "position_x": -2050.57724609375,
+    "position_y": -1010.2442382812496,
+    "direction_deg": -12.893196105957031
+  },
+  {
+    "frame": 268,
+    "tracker_id": -1,
+    "position_x": -2037.2353515625,
+    "position_y": -1004.4573242187498,
+    "direction_deg": -18.736570358276367
+  },
+  {
+    "frame": 269,
+    "tracker_id": -1,
+    "position_x": -2025.2639648437498,
+    "position_y": -997.3722656250002,
+    "direction_deg": -13.606877326965332
+  },
+  {
+    "frame": 270,
+    "tracker_id": -1,
+    "position_x": -2014.12255859375,
+    "position_y": -992.1833007812502,
+    "direction_deg": -13.523160934448242
+  },
+  {
+    "frame": 271,
+    "tracker_id": -1,
+    "position_x": -2003.6959960937502,
+    "position_y": -987.9353515624998,
+    "direction_deg": -18.62945556640625
+  },
+  {
+    "frame": 272,
+    "tracker_id": -1,
+    "position_x": -1993.9780761718748,
+    "position_y": -983.6312500000004,
+    "direction_deg": -4.05157470703125
+  },
+  {
+    "frame": 273,
+    "tracker_id": -1,
+    "position_x": -1982.7938964843752,
+    "position_y": -979.1646484374996,
+    "direction_deg": -7.001869201660156
+  },
+  {
+    "frame": 274,
+    "tracker_id": -1,
+    "position_x": -1970.9106933593748,
+    "position_y": -974.2088867187504,
+    "direction_deg": -14.486872673034668
+  },
+  {
+    "frame": 275,
+    "tracker_id": -1,
+    "position_x": -1958.6874511718752,
+    "position_y": -967.5464843749996,
+    "direction_deg": -3.717022895812988
+  },
+  {
+    "frame": 276,
+    "tracker_id": -1,
+    "position_x": -1947.7510253906248,
+    "position_y": -961.0250976562502,
+    "direction_deg": 2.172272205352783
+  },
+  {
+    "frame": 277,
+    "tracker_id": -1,
+    "position_x": -1935.1007812500002,
+    "position_y": -951.78955078125,
+    "direction_deg": -11.774914741516112
+  },
+  {
+    "frame": 278,
+    "tracker_id": -1,
+    "position_x": -1917.7233398437502,
+    "position_y": -936.8424804687502,
+    "direction_deg": 19.316774368286133
+  },
+  {
+    "frame": 279,
+    "tracker_id": -1,
+    "position_x": -1894.2683593749998,
+    "position_y": -919.2942382812498,
+    "direction_deg": -12.245920181274414
+  },
+  {
+    "frame": 280,
+    "tracker_id": -1,
+    "position_x": -1864.645361328125,
+    "position_y": -898.3864257812502,
+    "direction_deg": -12.057259559631348
+  },
+  {
+    "frame": 281,
+    "tracker_id": -1,
+    "position_x": -1826.7455566406252,
+    "position_y": -873.4529296874998,
+    "direction_deg": -19.834930419921875
+  },
+  {
+    "frame": 282,
+    "tracker_id": -1,
+    "position_x": -1784.9087402343748,
+    "position_y": -846.7321289062502,
+    "direction_deg": -15.109991073608398
+  },
+  {
+    "frame": 283,
+    "tracker_id": -1,
+    "position_x": -1741.4134765625,
+    "position_y": -822.6192382812496,
+    "direction_deg": -12.780016899108888
+  },
+  {
+    "frame": 284,
+    "tracker_id": -1,
+    "position_x": -1698.1173828125002,
+    "position_y": -800.5753906250002,
+    "direction_deg": -23.42470932006836
+  },
+  {
+    "frame": 285,
+    "tracker_id": -1,
+    "position_x": -1654.8472167968748,
+    "position_y": -779.66748046875,
+    "direction_deg": -10.136664390563965
+  },
+  {
+    "frame": 286,
+    "tracker_id": -1,
+    "position_x": -1613.5937988281248,
+    "position_y": -758.3749023437504,
+    "direction_deg": -15.210531234741213
+  },
+  {
+    "frame": 287,
+    "tracker_id": -1,
+    "position_x": -1572.442041015625,
+    "position_y": -738.54248046875,
+    "direction_deg": -26.265501022338867
+  },
+  {
+    "frame": 288,
+    "tracker_id": -1,
+    "position_x": -1832.1950195312502,
+    "position_y": -205.1263427734375,
+    "direction_deg": -27.640457153320312
+  },
+  {
+    "frame": 289,
+    "tracker_id": -1,
+    "position_x": -2100.9064453125,
+    "position_y": 325.5957519531248,
+    "direction_deg": -20.57984161376953
+  },
+  {
+    "frame": 290,
+    "tracker_id": -1,
+    "position_x": -2064.92998046875,
+    "position_y": 346.4444335937501,
+    "direction_deg": -119.308837890625
+  },
+  {
+    "frame": 291,
+    "tracker_id": -1,
+    "position_x": -2029.7871582031248,
+    "position_y": 367.0099609375002,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 292,
+    "tracker_id": -1,
+    "position_x": -1996.64755859375,
+    "position_y": 387.5389160156251,
+    "direction_deg": 58.22891616821289
+  },
+  {
+    "frame": 293,
+    "tracker_id": -1,
+    "position_x": -1664.2935058593748,
+    "position_y": -106.78630371093732,
+    "direction_deg": -21.19814682006836
+  },
+  {
+    "frame": 294,
+    "tracker_id": -1,
+    "position_x": -1325.8767578124998,
+    "position_y": -596.9306152343752,
+    "direction_deg": -22.257368087768555
+  },
+  {
+    "frame": 295,
+    "tracker_id": -1,
+    "position_x": -1295.5861328125002,
+    "position_y": -579.9695800781251,
+    "direction_deg": -12.478157043457031
+  },
+  {
+    "frame": 296,
+    "tracker_id": -1,
+    "position_x": -1266.19619140625,
+    "position_y": -564.3117187500002,
+    "direction_deg": -20.233184814453125
+  },
+  {
+    "frame": 297,
+    "tracker_id": -1,
+    "position_x": -1236.7405273437498,
+    "position_y": -549.7205566406251,
+    "direction_deg": -20.42160415649414
+  },
+  {
+    "frame": 298,
+    "tracker_id": -1,
+    "position_x": -1208.658447265625,
+    "position_y": -534.0507324218752,
+    "direction_deg": -18.42428207397461
+  },
+  {
+    "frame": 299,
+    "tracker_id": -1,
+    "position_x": -1181.17041015625,
+    "position_y": -520.6658691406251,
+    "direction_deg": -20.943891525268555
+  },
+  {
+    "frame": 300,
+    "tracker_id": -1,
+    "position_x": -1153.8818359375,
+    "position_y": -505.5050781250002,
+    "direction_deg": -17.999774932861328
+  },
+  {
+    "frame": 301,
+    "tracker_id": -1,
+    "position_x": -1126.6492675781246,
+    "position_y": -490.0767089843748,
+    "direction_deg": -11.49280834197998
+  },
+  {
+    "frame": 302,
+    "tracker_id": -1,
+    "position_x": -1096.1539062499996,
+    "position_y": -457.5446289062502,
+    "direction_deg": -24.876373291015625
+  },
+  {
+    "frame": 303,
+    "tracker_id": -1,
+    "position_x": -1069.0872070312498,
+    "position_y": -427.4656249999998,
+    "direction_deg": -17.03900146484375
+  },
+  {
+    "frame": 304,
+    "tracker_id": -1,
+    "position_x": -1047.7799804687502,
+    "position_y": -399.7086425781249,
+    "direction_deg": -18.29207801818848
+  },
+  {
+    "frame": 305,
+    "tracker_id": -1,
+    "position_x": -1034.1044921875,
+    "position_y": -394.6275878906249,
+    "direction_deg": -6.333226203918457
+  },
+  {
+    "frame": 306,
+    "tracker_id": -1,
+    "position_x": -1022.8254882812498,
+    "position_y": -373.7500488281248,
+    "direction_deg": 22.91872215270996
+  },
+  {
+    "frame": 307,
+    "tracker_id": -1,
+    "position_x": -1019.85986328125,
+    "position_y": -371.9551757812501,
+    "direction_deg": 55.34128189086914
+  },
+  {
+    "frame": 308,
+    "tracker_id": -1,
+    "position_x": -1022.0559570312498,
+    "position_y": -388.7714355468752,
+    "direction_deg": 26.154735565185547
+  },
+  {
+    "frame": 309,
+    "tracker_id": -1,
+    "position_x": -1023.5575195312504,
+    "position_y": -406.052978515625,
+    "direction_deg": -33.35657501220703
+  },
+  {
+    "frame": 310,
+    "tracker_id": -1,
+    "position_x": -1020.50439453125,
+    "position_y": -404.6015625,
+    "direction_deg": 9.57335376739502
+  },
+  {
+    "frame": 311,
+    "tracker_id": -1,
+    "position_x": -1020.1543945312496,
+    "position_y": -421.6000488281252,
+    "direction_deg": 25.14386558532715
+  },
+  {
+    "frame": 312,
+    "tracker_id": -1,
+    "position_x": -1020.4361328124996,
+    "position_y": -439.5247558593751,
+    "direction_deg": 50.88042831420898
+  },
+  {
+    "frame": 313,
+    "tracker_id": -1,
+    "position_x": -1014.3019531250002,
+    "position_y": -421.1265136718748,
+    "direction_deg": 45.68966674804688
+  },
+  {
+    "frame": 314,
+    "tracker_id": -1,
+    "position_x": -1000.5557617187496,
+    "position_y": -396.6854492187499,
+    "direction_deg": -12.413130760192873
+  },
+  {
+    "frame": 315,
+    "tracker_id": -1,
+    "position_x": -976.29345703125,
+    "position_y": -361.1747558593752,
+    "direction_deg": -8.239163398742676
+  },
+  {
+    "frame": 316,
+    "tracker_id": -1,
+    "position_x": -940.82470703125,
+    "position_y": -314.2371582031251,
+    "direction_deg": -24.66775894165039
+  },
+  {
+    "frame": 317,
+    "tracker_id": -1,
+    "position_x": -892.0224609375,
+    "position_y": -260.8668457031249,
+    "direction_deg": -35.49851989746094
+  },
+  {
+    "frame": 318,
+    "tracker_id": -1,
+    "position_x": -835.4325195312504,
+    "position_y": -224.46845703125018,
+    "direction_deg": -39.404075622558594
+  },
+  {
+    "frame": 319,
+    "tracker_id": -1,
+    "position_x": -775.6943359375,
+    "position_y": -186.43305664062518,
+    "direction_deg": -24.95804786682129
+  },
+  {
+    "frame": 320,
+    "tracker_id": -1,
+    "position_x": -717.4308593750002,
+    "position_y": -150.74384765625018,
+    "direction_deg": -7.326428413391113
+  },
+  {
+    "frame": 321,
+    "tracker_id": -1,
+    "position_x": -659.4310546875004,
+    "position_y": -121.1455078125,
+    "direction_deg": -22.11021423339844
+  },
+  {
+    "frame": 322,
+    "tracker_id": -1,
+    "position_x": -603.8216796875004,
+    "position_y": -90.33657226562491,
+    "direction_deg": -34.04948043823242
+  },
+  {
+    "frame": 323,
+    "tracker_id": -1,
+    "position_x": -549.5720703124998,
+    "position_y": -56.11005859375018,
+    "direction_deg": -27.102916717529297
+  },
+  {
+    "frame": 324,
+    "tracker_id": -1,
+    "position_x": -496.4436523437498,
+    "position_y": -21.02963867187509,
+    "direction_deg": -34.18259811401367
+  },
+  {
+    "frame": 325,
+    "tracker_id": -1,
+    "position_x": -443.65966796875,
+    "position_y": 10.72412109375,
+    "direction_deg": -25.066450119018555
+  },
+  {
+    "frame": 326,
+    "tracker_id": -1,
+    "position_x": -392.8435546874998,
+    "position_y": 42.98715820312509,
+    "direction_deg": -33.71802520751953
+  },
+  {
+    "frame": 327,
+    "tracker_id": -1,
+    "position_x": -344.41455078125,
+    "position_y": 74.03647460937509,
+    "direction_deg": -22.729616165161133
+  },
+  {
+    "frame": 328,
+    "tracker_id": -1,
+    "position_x": -295.7664062499998,
+    "position_y": 105.578857421875,
+    "direction_deg": -30.243547439575195
+  },
+  {
+    "frame": 329,
+    "tracker_id": -1,
+    "position_x": -248.251953125,
+    "position_y": 137.86083984375,
+    "direction_deg": -30.492816925048828
+  },
+  {
+    "frame": 330,
+    "tracker_id": -1,
+    "position_x": -203.07783203125018,
+    "position_y": 173.60419921875018,
+    "direction_deg": -31.58416175842285
+  },
+  {
+    "frame": 331,
+    "tracker_id": -1,
+    "position_x": -158.66874999999982,
+    "position_y": 208.64008789062518,
+    "direction_deg": -40.935813903808594
+  },
+  {
+    "frame": 332,
+    "tracker_id": -1,
+    "position_x": -114.94677734375,
+    "position_y": 241.136962890625,
+    "direction_deg": -40.53058242797852
+  },
+  {
+    "frame": 333,
+    "tracker_id": -1,
+    "position_x": -72.63330078125,
+    "position_y": 272.0577636718749,
+    "direction_deg": -29.141868591308597
+  },
+  {
+    "frame": 334,
+    "tracker_id": -1,
+    "position_x": -31.485058593750182,
+    "position_y": 300.9102539062501,
+    "direction_deg": -23.486595153808597
+  },
+  {
+    "frame": 335,
+    "tracker_id": -1,
+    "position_x": 8.681933593749818,
+    "position_y": 326.544921875,
+    "direction_deg": -26.87503433227539
+  },
+  {
+    "frame": 336,
+    "tracker_id": -1,
+    "position_x": 47.664160156249636,
+    "position_y": 350.9932617187501,
+    "direction_deg": -36.48941802978516
+  },
+  {
+    "frame": 337,
+    "tracker_id": -1,
+    "position_x": 85.56328124999982,
+    "position_y": 380.7662109375001,
+    "direction_deg": -26.945039749145508
+  },
+  {
+    "frame": 338,
+    "tracker_id": -1,
+    "position_x": 120.97802734375,
+    "position_y": 410.2479492187499,
+    "direction_deg": -27.10563087463379
+  },
+  {
+    "frame": 339,
+    "tracker_id": -1,
+    "position_x": 156.25566406249982,
+    "position_y": 433.7752441406251,
+    "direction_deg": -49.877838134765625
+  },
+  {
+    "frame": 340,
+    "tracker_id": -1,
+    "position_x": 189.42158203125018,
+    "position_y": 455.8290039062499,
+    "direction_deg": -26.226221084594727
+  },
+  {
+    "frame": 341,
+    "tracker_id": -1,
+    "position_x": 212.61152343750018,
+    "position_y": 475.5180175781252,
+    "direction_deg": 3.95065712928772
+  },
+  {
+    "frame": 342,
+    "tracker_id": -1,
+    "position_x": 228.80302734374982,
+    "position_y": 488.0770507812499,
+    "direction_deg": -32.58805847167969
+  },
+  {
+    "frame": 343,
+    "tracker_id": -1,
+    "position_x": 237.53408203125036,
+    "position_y": 500.9681640624999,
+    "direction_deg": -115.8153839111328
+  },
+  {
+    "frame": 344,
+    "tracker_id": -1,
+    "position_x": 236.56523437499982,
+    "position_y": 515.5731933593752,
+    "direction_deg": -117.60000610351562
+  },
+  {
+    "frame": 345,
+    "tracker_id": -1,
+    "position_x": 229.77216796875018,
+    "position_y": 530.5539062500002,
+    "direction_deg": -106.41962432861328
+  },
+  {
+    "frame": 346,
+    "tracker_id": -1,
+    "position_x": 224.31474609374982,
+    "position_y": 546.6292968749999,
+    "direction_deg": -141.1779327392578
+  },
+  {
+    "frame": 347,
+    "tracker_id": -1,
+    "position_x": 218.70244140624982,
+    "position_y": 562.7720214843748,
+    "direction_deg": -90.48900604248048
+  },
+  {
+    "frame": 348,
+    "tracker_id": -1,
+    "position_x": 213.23574218750036,
+    "position_y": 578.0835937500001,
+    "direction_deg": -118.5251693725586
+  },
+  {
+    "frame": 349,
+    "tracker_id": -1,
+    "position_x": 209.13749999999982,
+    "position_y": 595.3274902343751,
+    "direction_deg": -102.30609130859376
+  },
+  {
+    "frame": 350,
+    "tracker_id": -1,
+    "position_x": 205.990234375,
+    "position_y": 611.3106933593749,
+    "direction_deg": -110.716796875
+  },
+  {
+    "frame": 351,
+    "tracker_id": -1,
+    "position_x": 203.55898437500036,
+    "position_y": 627.941162109375,
+    "direction_deg": -93.86671447753906
+  },
+  {
+    "frame": 352,
+    "tracker_id": -1,
+    "position_x": 201.1201171875,
+    "position_y": 646.5257324218751,
+    "direction_deg": -106.14869689941406
+  },
+  {
+    "frame": 353,
+    "tracker_id": -1,
+    "position_x": 198.34062499999982,
+    "position_y": 665.9457519531252,
+    "direction_deg": -97.53741455078124
+  },
+  {
+    "frame": 354,
+    "tracker_id": -1,
+    "position_x": 195.81220703125018,
+    "position_y": 683.1685058593748,
+    "direction_deg": -78.48210906982422
+  },
+  {
+    "frame": 355,
+    "tracker_id": -1,
+    "position_x": 190.14794921875,
+    "position_y": 699.8056152343752,
+    "direction_deg": -72.84510040283203
+  },
+  {
+    "frame": 356,
+    "tracker_id": -1,
+    "position_x": 185.16367187499964,
+    "position_y": 715.4096191406252,
+    "direction_deg": -48.61142349243164
+  },
+  {
+    "frame": 357,
+    "tracker_id": -1,
+    "position_x": 181.04873046875036,
+    "position_y": 729.4678710937501,
+    "direction_deg": -57.392574310302734
+  },
+  {
+    "frame": 358,
+    "tracker_id": -1,
+    "position_x": 178.81523437499982,
+    "position_y": 742.5830078125,
+    "direction_deg": -73.50994110107422
+  },
+  {
+    "frame": 359,
+    "tracker_id": -1,
+    "position_x": 177.12343750000036,
+    "position_y": 755.8880371093751,
+    "direction_deg": -64.16078186035156
+  },
+  {
+    "frame": 360,
+    "tracker_id": -1,
+    "position_x": 178.56806640625018,
+    "position_y": 768.9915039062498,
+    "direction_deg": -74.99861145019531
+  },
+  {
+    "frame": 361,
+    "tracker_id": -1,
+    "position_x": 179.38691406250018,
+    "position_y": 780.9453613281248,
+    "direction_deg": -57.72981262207031
+  },
+  {
+    "frame": 362,
+    "tracker_id": -1,
+    "position_x": 180.18876953124982,
+    "position_y": 793.6559570312502,
+    "direction_deg": -48.78493118286133
+  },
+  {
+    "frame": 363,
+    "tracker_id": -1,
+    "position_x": 181.45361328125,
+    "position_y": 804.9056152343751,
+    "direction_deg": -47.47223663330078
+  },
+  {
+    "frame": 364,
+    "tracker_id": -1,
+    "position_x": 181.38095703124964,
+    "position_y": 782.1249023437499,
+    "direction_deg": -70.0789566040039
+  },
+  {
+    "frame": 365,
+    "tracker_id": -1,
+    "position_x": 172.76435546875018,
+    "position_y": 772.575927734375,
+    "direction_deg": -62.36311340332031
+  },
+  {
+    "frame": 366,
+    "tracker_id": -1,
+    "position_x": 163.95859374999964,
+    "position_y": 764.9833496093752,
+    "direction_deg": -54.32460403442383
+  },
+  {
+    "frame": 367,
+    "tracker_id": -1,
+    "position_x": 154.60048828125036,
+    "position_y": 753.7317871093751,
+    "direction_deg": -3.021873712539673
+  },
+  {
+    "frame": 368,
+    "tracker_id": -1,
+    "position_x": 144.32275390625,
+    "position_y": 740.4020019531249,
+    "direction_deg": -64.51795196533203
+  },
+  {
+    "frame": 369,
+    "tracker_id": -1,
+    "position_x": 137.0234375,
+    "position_y": 761.2417968750001,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 370,
+    "tracker_id": -1,
+    "position_x": 138.24658203125,
+    "position_y": 767.0932128906252,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 371,
+    "tracker_id": -1,
+    "position_x": 139.95556640625,
+    "position_y": 769.2305175781248,
+    "direction_deg": -18.47966766357422
+  },
+  {
+    "frame": 372,
+    "tracker_id": -1,
+    "position_x": 128.41230468750018,
+    "position_y": 809.5556152343752,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 373,
+    "tracker_id": -1,
+    "position_x": 109.03681640625018,
+    "position_y": 867.7368652343748,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 374,
+    "tracker_id": -1,
+    "position_x": 80.25673828125036,
+    "position_y": 941.4323242187502,
+    "direction_deg": -101.03438568115234
+  },
+  {
+    "frame": 375,
+    "tracker_id": -1,
+    "position_x": 42.791406250000364,
+    "position_y": 1029.8524902343752,
+    "direction_deg": -106.54254150390624
+  },
+  {
+    "frame": 376,
+    "tracker_id": -1,
+    "position_x": 5.326074218750364,
+    "position_y": 1118.2726562500002,
+    "direction_deg": -108.34654235839844
+  },
+  {
+    "frame": 377,
+    "tracker_id": -1,
+    "position_x": -31.64599609375,
+    "position_y": 1195.1,
+    "direction_deg": -116.41193389892578
+  },
+  {
+    "frame": 378,
+    "tracker_id": -1,
+    "position_x": -67.88828124999964,
+    "position_y": 1266.2301757812502,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 379,
+    "tracker_id": -1,
+    "position_x": -103.41162109375,
+    "position_y": 1340.582763671875,
+    "direction_deg": -113.60863494873048
+  },
+  {
+    "frame": 380,
+    "tracker_id": -1,
+    "position_x": -136.9013671875,
+    "position_y": 1416.7646728515624,
+    "direction_deg": -114.95958709716795
+  },
+  {
+    "frame": 381,
+    "tracker_id": -1,
+    "position_x": -176.79902343750018,
+    "position_y": 1508.653857421875,
+    "direction_deg": -105.85311126708984
+  },
+  {
+    "frame": 382,
+    "tracker_id": -1,
+    "position_x": -212.05136718749964,
+    "position_y": 1588.1447998046872,
+    "direction_deg": -108.924072265625
+  },
+  {
+    "frame": 383,
+    "tracker_id": -1,
+    "position_x": -246.32099609375018,
+    "position_y": 1665.65986328125,
+    "direction_deg": -108.46731567382812
+  },
+  {
+    "frame": 384,
+    "tracker_id": -1,
+    "position_x": -281.40224609375036,
+    "position_y": 1728.0546142578123,
+    "direction_deg": -111.73477172851562
+  },
+  {
+    "frame": 385,
+    "tracker_id": -1,
+    "position_x": -316.27011718749964,
+    "position_y": 1779.721875,
+    "direction_deg": -118.4552230834961
+  },
+  {
+    "frame": 386,
+    "tracker_id": -1,
+    "position_x": -351.43349609375036,
+    "position_y": 1831.375927734375,
+    "direction_deg": -126.16184997558594
+  },
+  {
+    "frame": 387,
+    "tracker_id": -1,
+    "position_x": -386.0627929687498,
+    "position_y": 1885.7861328125,
+    "direction_deg": -132.35643005371094
+  },
+  {
+    "frame": 388,
+    "tracker_id": -1,
+    "position_x": -421.734375,
+    "position_y": 1944.9495361328125,
+    "direction_deg": -109.34776306152344
+  },
+  {
+    "frame": 389,
+    "tracker_id": -1,
+    "position_x": -455.5261718749998,
+    "position_y": 2008.92763671875,
+    "direction_deg": -105.9189682006836
+  },
+  {
+    "frame": 390,
+    "tracker_id": -1,
+    "position_x": -489.85693359375,
+    "position_y": 2074.94921875,
+    "direction_deg": -111.0445785522461
+  },
+  {
+    "frame": 391,
+    "tracker_id": -1,
+    "position_x": -526.0492187500004,
+    "position_y": 2138.0971435546876,
+    "direction_deg": -112.39900207519533
+  },
+  {
+    "frame": 392,
+    "tracker_id": -1,
+    "position_x": -559.7331054687502,
+    "position_y": 2188.3422119140623,
+    "direction_deg": -118.71629333496094
+  },
+  {
+    "frame": 393,
+    "tracker_id": -1,
+    "position_x": -591.5113281249996,
+    "position_y": 2227.7751953125,
+    "direction_deg": -113.23492431640624
+  },
+  {
+    "frame": 394,
+    "tracker_id": -1,
+    "position_x": -623.8799804687496,
+    "position_y": 2263.248681640625,
+    "direction_deg": -130.76519775390625
+  },
+  {
+    "frame": 395,
+    "tracker_id": -1,
+    "position_x": -654.7256835937496,
+    "position_y": 2301.191845703125,
+    "direction_deg": -130.35691833496094
+  },
+  {
+    "frame": 396,
+    "tracker_id": -1,
+    "position_x": -682.6891601562502,
+    "position_y": 2337.91962890625,
+    "direction_deg": -121.0762710571289
+  },
+  {
+    "frame": 397,
+    "tracker_id": -1,
+    "position_x": -710.0226562500002,
+    "position_y": 2383.7513793945313,
+    "direction_deg": -109.62549591064452
+  },
+  {
+    "frame": 398,
+    "tracker_id": -1,
+    "position_x": -737.5874999999996,
+    "position_y": 2436.2505615234377,
+    "direction_deg": -112.1236572265625
+  },
+  {
+    "frame": 399,
+    "tracker_id": -1,
+    "position_x": -764.75732421875,
+    "position_y": 2489.8832763671876,
+    "direction_deg": -108.00165557861328
+  },
+  {
+    "frame": 400,
+    "tracker_id": -1,
+    "position_x": -793.2437499999996,
+    "position_y": 2537.94033203125,
+    "direction_deg": -113.41658020019533
+  },
+  {
+    "frame": 401,
+    "tracker_id": -1,
+    "position_x": -820.1491210937502,
+    "position_y": 2574.595654296875,
+    "direction_deg": -116.6535873413086
+  },
+  {
+    "frame": 402,
+    "tracker_id": -1,
+    "position_x": -847.0759765624998,
+    "position_y": 2606.4510986328123,
+    "direction_deg": -123.30657196044922
+  },
+  {
+    "frame": 403,
+    "tracker_id": -1,
+    "position_x": -872.6617187499996,
+    "position_y": 2641.887890625,
+    "direction_deg": -152.54989624023438
+  },
+  {
+    "frame": 404,
+    "tracker_id": -1,
+    "position_x": -900.2554687499996,
+    "position_y": 2681.793737792969,
+    "direction_deg": -111.48036193847656
+  },
+  {
+    "frame": 405,
+    "tracker_id": -1,
+    "position_x": -923.3958984375004,
+    "position_y": 2727.150598144531,
+    "direction_deg": -105.90657043457033
+  },
+  {
+    "frame": 406,
+    "tracker_id": -1,
+    "position_x": -959.0564453124998,
+    "position_y": 2784.4022521972656,
+    "direction_deg": -110.10560607910156
+  },
+  {
+    "frame": 407,
+    "tracker_id": -1,
+    "position_x": -995.2889648437504,
+    "position_y": 2836.3105285644533,
+    "direction_deg": -106.69711303710938
+  },
+  {
+    "frame": 408,
+    "tracker_id": -1,
+    "position_x": -1031.8653320312496,
+    "position_y": 2872.715087890625,
+    "direction_deg": -117.0037841796875
+  },
+  {
+    "frame": 409,
+    "tracker_id": -1,
+    "position_x": -1064.38525390625,
+    "position_y": 2895.6080322265625,
+    "direction_deg": -116.764892578125
+  },
+  {
+    "frame": 410,
+    "tracker_id": -1,
+    "position_x": -1098.97265625,
+    "position_y": 2917.0249572753905,
+    "direction_deg": -153.59036254882812
+  },
+  {
+    "frame": 411,
+    "tracker_id": -1,
+    "position_x": -1110.8472656249996,
+    "position_y": 2930.963623046875,
+    "direction_deg": -169.3243865966797
+  },
+  {
+    "frame": 412,
+    "tracker_id": -1,
+    "position_x": -1121.6687499999998,
+    "position_y": 2951.602392578125,
+    "direction_deg": -106.3488311767578
+  },
+  {
+    "frame": 413,
+    "tracker_id": -1,
+    "position_x": -1131.8389648437496,
+    "position_y": 2978.9662231445313,
+    "direction_deg": -109.1391372680664
+  },
+  {
+    "frame": 414,
+    "tracker_id": -1,
+    "position_x": -1143.1730468750002,
+    "position_y": 3011.421710205078,
+    "direction_deg": -109.74234771728516
+  },
+  {
+    "frame": 415,
+    "tracker_id": -1,
+    "position_x": -1163.3271972656248,
+    "position_y": 3040.1412658691406,
+    "direction_deg": -110.8188705444336
+  },
+  {
+    "frame": 416,
+    "tracker_id": -1,
+    "position_x": -1194.85361328125,
+    "position_y": 3073.637341308594,
+    "direction_deg": -122.97109985351562
+  },
+  {
+    "frame": 417,
+    "tracker_id": -1,
+    "position_x": -1224.768408203125,
+    "position_y": 3098.9040130615235,
+    "direction_deg": -118.48699951171876
+  },
+  {
+    "frame": 418,
+    "tracker_id": -1,
+    "position_x": -1254.18125,
+    "position_y": 3124.221990966797,
+    "direction_deg": -107.41197204589844
+  },
+  {
+    "frame": 419,
+    "tracker_id": -1,
+    "position_x": -1282.822265625,
+    "position_y": 3155.189822387695,
+    "direction_deg": -129.2911834716797
+  },
+  {
+    "frame": 420,
+    "tracker_id": -1,
+    "position_x": -1304.6855957031248,
+    "position_y": 3189.0828125,
+    "direction_deg": -106.74690246582033
+  },
+  {
+    "frame": 421,
+    "tracker_id": -1,
+    "position_x": -1324.0572265625,
+    "position_y": 3219.622895812988,
+    "direction_deg": -107.2757568359375
+  },
+  {
+    "frame": 422,
+    "tracker_id": -1,
+    "position_x": -1343.605078125,
+    "position_y": 3245.6880645751953,
+    "direction_deg": -107.1576690673828
+  },
+  {
+    "frame": 423,
+    "tracker_id": -1,
+    "position_x": -1362.81044921875,
+    "position_y": 3265.22820892334,
+    "direction_deg": -113.08253479003906
+  },
+  {
+    "frame": 424,
+    "tracker_id": -1,
+    "position_x": -1379.31357421875,
+    "position_y": 3271.885316467285,
+    "direction_deg": 151.01296997070312
+  },
+  {
+    "frame": 425,
+    "tracker_id": -1,
+    "position_x": -1391.57041015625,
+    "position_y": 3264.1014389038087,
+    "direction_deg": -131.96607971191406
+  },
+  {
+    "frame": 426,
+    "tracker_id": -1,
+    "position_x": -1397.26123046875,
+    "position_y": 3246.476953125,
+    "direction_deg": 172.30752563476562
+  },
+  {
+    "frame": 427,
+    "tracker_id": -1,
+    "position_x": -1405.2333984375,
+    "position_y": 3231.9018692016602,
+    "direction_deg": 115.69263458251952
+  },
+  {
+    "frame": 428,
+    "tracker_id": -1,
+    "position_x": -1412.7200195312498,
+    "position_y": 3219.944647216797,
+    "direction_deg": 120.04298400878906
+  },
+  {
+    "frame": 429,
+    "tracker_id": -1,
+    "position_x": -1422.10205078125,
+    "position_y": 3211.1411560058596,
+    "direction_deg": -132.89724731445312
+  },
+  {
+    "frame": 430,
+    "tracker_id": -1,
+    "position_x": -1436.1619140624998,
+    "position_y": 3211.1888732910156,
+    "direction_deg": -111.8994598388672
+  },
+  {
+    "frame": 431,
+    "tracker_id": -1,
+    "position_x": -1453.9848144531252,
+    "position_y": 3214.526486206055,
+    "direction_deg": -124.3736572265625
+  },
+  {
+    "frame": 432,
+    "tracker_id": -1,
+    "position_x": -1471.0884765625,
+    "position_y": 3224.4590454101562,
+    "direction_deg": -143.8631134033203
+  },
+  {
+    "frame": 433,
+    "tracker_id": -1,
+    "position_x": -1487.39638671875,
+    "position_y": 3232.9333435058593,
+    "direction_deg": -141.31292724609375
+  },
+  {
+    "frame": 434,
+    "tracker_id": -1,
+    "position_x": -1501.1776855468752,
+    "position_y": 3244.7125,
+    "direction_deg": -126.4849853515625
+  },
+  {
+    "frame": 435,
+    "tracker_id": -1,
+    "position_x": -1511.192138671875,
+    "position_y": 3253.119467163086,
+    "direction_deg": -130.7407684326172
+  },
+  {
+    "frame": 436,
+    "tracker_id": -1,
+    "position_x": -1522.0486328124998,
+    "position_y": 3259.8105194091795,
+    "direction_deg": -113.5849151611328
+  },
+  {
+    "frame": 437,
+    "tracker_id": -1,
+    "position_x": -1531.73916015625,
+    "position_y": 3262.22265625,
+    "direction_deg": 178.880859375
+  },
+  {
+    "frame": 438,
+    "tracker_id": -1,
+    "position_x": -1542.456396484375,
+    "position_y": 3265.7982864379883,
+    "direction_deg": 107.8561553955078
+  },
+  {
+    "frame": 439,
+    "tracker_id": -1,
+    "position_x": -1554.851318359375,
+    "position_y": 3264.993101501465,
+    "direction_deg": 165.802978515625
+  },
+  {
+    "frame": 440,
+    "tracker_id": -1,
+    "position_x": -1565.7814453125002,
+    "position_y": 3264.4048873901365,
+    "direction_deg": 141.04747009277344
+  },
+  {
+    "frame": 441,
+    "tracker_id": -1,
+    "position_x": -1584.3945800781248,
+    "position_y": 3267.4671127319334,
+    "direction_deg": 115.86456298828124
+  },
+  {
+    "frame": 442,
+    "tracker_id": -1,
+    "position_x": -1601.7228515625002,
+    "position_y": 3266.8303298950195,
+    "direction_deg": 101.999755859375
+  },
+  {
+    "frame": 443,
+    "tracker_id": -1,
+    "position_x": -1613.46572265625,
+    "position_y": 3272.1875762939453,
+    "direction_deg": 173.6250762939453
+  },
+  {
+    "frame": 444,
+    "tracker_id": -1,
+    "position_x": -1624.530859375,
+    "position_y": 3282.1035568237303,
+    "direction_deg": 122.34201049804688
+  },
+  {
+    "frame": 445,
+    "tracker_id": -1,
+    "position_x": -1637.060302734375,
+    "position_y": 3292.3975967407227,
+    "direction_deg": 132.1046905517578
+  },
+  {
+    "frame": 446,
+    "tracker_id": -1,
+    "position_x": -1643.7658203125002,
+    "position_y": 3299.0746337890623,
+    "direction_deg": 139.3238067626953
+  },
+  {
+    "frame": 447,
+    "tracker_id": -1,
+    "position_x": -1659.676171875,
+    "position_y": 3313.68186340332,
+    "direction_deg": 127.15577697753906
+  },
+  {
+    "frame": 448,
+    "tracker_id": -1,
+    "position_x": -1673.75732421875,
+    "position_y": 3319.5497192382813,
+    "direction_deg": 115.9465789794922
+  },
+  {
+    "frame": 449,
+    "tracker_id": -1,
+    "position_x": -1687.8036621093752,
+    "position_y": 3322.7929260253904,
+    "direction_deg": 160.1589813232422
+  },
+  {
+    "frame": 450,
+    "tracker_id": -1,
+    "position_x": -1700.450830078125,
+    "position_y": 3327.533515167236,
+    "direction_deg": 127.5266342163086
+  },
+  {
+    "frame": 451,
+    "tracker_id": -1,
+    "position_x": -1712.8740722656248,
+    "position_y": 3338.8312644958496,
+    "direction_deg": 124.21460723876952
+  },
+  {
+    "frame": 452,
+    "tracker_id": -1,
+    "position_x": -1719.181298828125,
+    "position_y": 3345.029389953613,
+    "direction_deg": 142.09832763671875
+  },
+  {
+    "frame": 453,
+    "tracker_id": -1,
+    "position_x": -1535.5322753906248,
+    "position_y": 2291.122557067871,
+    "direction_deg": 173.8175811767578
+  },
+  {
+    "frame": 454,
+    "tracker_id": -1,
+    "position_x": -1563.09755859375,
+    "position_y": 2301.755743598938,
+    "direction_deg": 117.25314331054688
+  },
+  {
+    "frame": 455,
+    "tracker_id": -1,
+    "position_x": -1596.9655273437502,
+    "position_y": 2315.3650381088255,
+    "direction_deg": 79.27094268798828
+  },
+  {
+    "frame": 456,
+    "tracker_id": -1,
+    "position_x": -1634.7583984375,
+    "position_y": 2319.9566148757935,
+    "direction_deg": -101.33390045166016
+  },
+  {
+    "frame": 457,
+    "tracker_id": -1,
+    "position_x": -1675.9662597656252,
+    "position_y": 2325.657601642609,
+    "direction_deg": -179.89271545410156
+  },
+  {
+    "frame": 458,
+    "tracker_id": -1,
+    "position_x": -1918.476220703125,
+    "position_y": 3395.4995993614198,
+    "direction_deg": 139.64488220214844
+  },
+  {
+    "frame": 459,
+    "tracker_id": -1,
+    "position_x": -1951.73837890625,
+    "position_y": 3392.4506684303283,
+    "direction_deg": 151.5375518798828
+  },
+  {
+    "frame": 460,
+    "tracker_id": -1,
+    "position_x": -1985.1396972656248,
+    "position_y": 3391.833326482773,
+    "direction_deg": 152.86679077148438
+  },
+  {
+    "frame": 461,
+    "tracker_id": -1,
+    "position_x": -2017.6987792968748,
+    "position_y": 3391.591057729721,
+    "direction_deg": 109.14144897460938
+  },
+  {
+    "frame": 462,
+    "tracker_id": -1,
+    "position_x": -2048.963525390625,
+    "position_y": 3393.049206018448,
+    "direction_deg": 170.70144653320312
+  },
+  {
+    "frame": 463,
+    "tracker_id": -1,
+    "position_x": -2079.32578125,
+    "position_y": 3388.069235086441,
+    "direction_deg": 127.68588256835938
+  },
+  {
+    "frame": 464,
+    "tracker_id": -1,
+    "position_x": -2112.2501953125,
+    "position_y": 3391.650037813187,
+    "direction_deg": 166.6480712890625
+  },
+  {
+    "frame": 465,
+    "tracker_id": -1,
+    "position_x": -2142.5947265625,
+    "position_y": 3388.3665687561033,
+    "direction_deg": 140.61924743652344
+  },
+  {
+    "frame": 466,
+    "tracker_id": -1,
+    "position_x": -2171.721337890625,
+    "position_y": 3388.067470932007,
+    "direction_deg": 148.32810974121094
+  },
+  {
+    "frame": 467,
+    "tracker_id": -1,
+    "position_x": -2198.34755859375,
+    "position_y": 3380.879722595215,
+    "direction_deg": 130.0296173095703
+  },
+  {
+    "frame": 468,
+    "tracker_id": -1,
+    "position_x": -2225.5474609375,
+    "position_y": 3379.4011346817015,
+    "direction_deg": 167.2428741455078
+  },
+  {
+    "frame": 469,
+    "tracker_id": -1,
+    "position_x": -2252.355224609375,
+    "position_y": 3379.893558692932,
+    "direction_deg": 159.52586364746094
+  },
+  {
+    "frame": 470,
+    "tracker_id": -1,
+    "position_x": -2279.07705078125,
+    "position_y": 3381.245831108093,
+    "direction_deg": 109.66320037841795
+  },
+  {
+    "frame": 471,
+    "tracker_id": -1,
+    "position_x": -2305.604052734375,
+    "position_y": 3379.4068731307984,
+    "direction_deg": 142.75662231445312
+  },
+  {
+    "frame": 472,
+    "tracker_id": -1,
+    "position_x": -2332.26845703125,
+    "position_y": 3381.7528516769407,
+    "direction_deg": 145.20034790039062
+  },
+  {
+    "frame": 473,
+    "tracker_id": -1,
+    "position_x": -2357.26982421875,
+    "position_y": 3383.057168388367,
+    "direction_deg": 108.0435028076172
+  },
+  {
+    "frame": 474,
+    "tracker_id": -1,
+    "position_x": -2379.743603515625,
+    "position_y": 3378.2277629852297,
+    "direction_deg": 152.47256469726562
+  },
+  {
+    "frame": 475,
+    "tracker_id": -1,
+    "position_x": -2402.29794921875,
+    "position_y": 3376.611580657959,
+    "direction_deg": 154.39857482910156
+  },
+  {
+    "frame": 476,
+    "tracker_id": -1,
+    "position_x": -2423.424755859375,
+    "position_y": 3378.6341796875,
+    "direction_deg": 105.38150024414062
+  },
+  {
+    "frame": 477,
+    "tracker_id": -1,
+    "position_x": -2444.70537109375,
+    "position_y": 3378.835856628418,
+    "direction_deg": 173.13966369628906
+  },
+  {
+    "frame": 478,
+    "tracker_id": -1,
+    "position_x": -2462.423779296875,
+    "position_y": 3374.3688095092775,
+    "direction_deg": 128.64112854003906
+  },
+  {
+    "frame": 479,
+    "tracker_id": -1,
+    "position_x": -2475.93203125,
+    "position_y": 3367.53688583374,
+    "direction_deg": 140.60459899902344
+  },
+  {
+    "frame": 480,
+    "tracker_id": -1,
+    "position_x": -2485.10673828125,
+    "position_y": 3362.0246074676515,
+    "direction_deg": 90.70943450927734
+  },
+  {
+    "frame": 481,
+    "tracker_id": -1,
+    "position_x": -2491.0025390625,
+    "position_y": 3353.532506561279,
+    "direction_deg": 82.40078735351562
+  },
+  {
+    "frame": 482,
+    "tracker_id": -1,
+    "position_x": -2491.86845703125,
+    "position_y": 3337.9906410217286,
+    "direction_deg": 79.24163818359375
+  },
+  {
+    "frame": 483,
+    "tracker_id": -1,
+    "position_x": -2491.896484375,
+    "position_y": 3326.6498046875,
+    "direction_deg": 73.75989532470703
+  },
+  {
+    "frame": 484,
+    "tracker_id": -1,
+    "position_x": -2480.10849609375,
+    "position_y": 3299.4277069091795,
+    "direction_deg": 86.30972290039062
+  },
+  {
+    "frame": 485,
+    "tracker_id": -1,
+    "position_x": -2466.11279296875,
+    "position_y": 3261.171869659424,
+    "direction_deg": 91.28208923339844
+  },
+  {
+    "frame": 486,
+    "tracker_id": -1,
+    "position_x": -2451.790625,
+    "position_y": 3226.502424621582,
+    "direction_deg": 80.35847473144531
+  },
+  {
+    "frame": 487,
+    "tracker_id": -1,
+    "position_x": -2439.29345703125,
+    "position_y": 3194.9660110473633,
+    "direction_deg": 81.97128295898438
+  },
+  {
+    "frame": 488,
+    "tracker_id": -1,
+    "position_x": -2427.239599609375,
+    "position_y": 3164.4824493408205,
+    "direction_deg": 78.2879867553711
+  },
+  {
+    "frame": 489,
+    "tracker_id": -1,
+    "position_x": -2428.63193359375,
+    "position_y": 3153.7690460205076,
+    "direction_deg": 85.88716888427734
+  },
+  {
+    "frame": 490,
+    "tracker_id": -1,
+    "position_x": -2430.562255859375,
+    "position_y": 3148.7371978759766,
+    "direction_deg": 83.10198974609375
+  },
+  {
+    "frame": 491,
+    "tracker_id": -1,
+    "position_x": -2433.181787109375,
+    "position_y": 3140.640509033203,
+    "direction_deg": 91.12916564941406
+  },
+  {
+    "frame": 492,
+    "tracker_id": -1,
+    "position_x": -2434.323876953125,
+    "position_y": 3135.3841705322266,
+    "direction_deg": 88.21326446533203
+  },
+  {
+    "frame": 493,
+    "tracker_id": -1,
+    "position_x": -2436.883203125,
+    "position_y": 3128.5728515625,
+    "direction_deg": 81.10808563232422
+  },
+  {
+    "frame": 494,
+    "tracker_id": -1,
+    "position_x": -2438.158984375,
+    "position_y": 3121.2014099121093,
+    "direction_deg": 82.15214538574219
+  },
+  {
+    "frame": 495,
+    "tracker_id": -1,
+    "position_x": -2439.9669921875,
+    "position_y": 3116.1902038574217,
+    "direction_deg": 110.49592590332033
+  },
+  {
+    "frame": 496,
+    "tracker_id": -1,
+    "position_x": -2442.7470703125,
+    "position_y": 3110.5290588378907,
+    "direction_deg": 78.72767639160156
+  },
+  {
+    "frame": 497,
+    "tracker_id": -1,
+    "position_x": -2447.6287109375,
+    "position_y": 3103.1837768554688,
+    "direction_deg": 101.11071014404295
+  },
+  {
+    "frame": 498,
+    "tracker_id": -1,
+    "position_x": -2452.241796875,
+    "position_y": 3093.652783203125,
+    "direction_deg": 109.11270904541016
+  },
+  {
+    "frame": 499,
+    "tracker_id": -1,
+    "position_x": -2461.517724609375,
+    "position_y": 3089.135430908203,
+    "direction_deg": 120.05015563964844
+  },
+  {
+    "frame": 500,
+    "tracker_id": -1,
+    "position_x": -2473.117724609375,
+    "position_y": 3081.149279785156,
+    "direction_deg": 121.421875
+  },
+  {
+    "frame": 501,
+    "tracker_id": -1,
+    "position_x": -2484.596728515625,
+    "position_y": 3074.4111572265624,
+    "direction_deg": -147.23500061035156
+  },
+  {
+    "frame": 502,
+    "tracker_id": -1,
+    "position_x": -2495.758056640625,
+    "position_y": 3069.0047241210937,
+    "direction_deg": 136.6383056640625
+  },
+  {
+    "frame": 503,
+    "tracker_id": -1,
+    "position_x": -2505.620654296875,
+    "position_y": 3066.9938049316406,
+    "direction_deg": 112.44059753417967
+  },
+  {
+    "frame": 504,
+    "tracker_id": -1,
+    "position_x": -2513.053173828125,
+    "position_y": 3063.2468994140627,
+    "direction_deg": 119.39971923828124
+  },
+  {
+    "frame": 505,
+    "tracker_id": -1,
+    "position_x": -2520.0025390625,
+    "position_y": 3062.8088928222655,
+    "direction_deg": 150.60560607910156
+  },
+  {
+    "frame": 506,
+    "tracker_id": -1,
+    "position_x": -2526.722314453125,
+    "position_y": 3061.697265625,
+    "direction_deg": 148.97915649414062
+  },
+  {
+    "frame": 507,
+    "tracker_id": -1,
+    "position_x": -2532.65986328125,
+    "position_y": 3062.3867797851562,
+    "direction_deg": -150.55990600585938
+  },
+  {
+    "frame": 508,
+    "tracker_id": -1,
+    "position_x": -2539.48583984375,
+    "position_y": 3059.551403808594,
+    "direction_deg": 94.98519897460938
+  },
+  {
+    "frame": 509,
+    "tracker_id": -1,
+    "position_x": -2545.98359375,
+    "position_y": 3053.123986816406,
+    "direction_deg": 100.03614044189452
+  },
+  {
+    "frame": 510,
+    "tracker_id": -1,
+    "position_x": -2552.993115234375,
+    "position_y": 3041.507849121094,
+    "direction_deg": 139.98654174804688
+  },
+  {
+    "frame": 511,
+    "tracker_id": -1,
+    "position_x": -2561.47158203125,
+    "position_y": 3031.4334106445312,
+    "direction_deg": 123.59703063964844
+  },
+  {
+    "frame": 512,
+    "tracker_id": -1,
+    "position_x": -2570.073681640625,
+    "position_y": 3021.9599548339843,
+    "direction_deg": -131.12152099609375
+  },
+  {
+    "frame": 513,
+    "tracker_id": -1,
+    "position_x": -2579.25458984375,
+    "position_y": 3015.492987060547,
+    "direction_deg": 81.42308807373047
+  },
+  {
+    "frame": 514,
+    "tracker_id": -1,
+    "position_x": -2587.106103515625,
+    "position_y": 3010.148468017578,
+    "direction_deg": -166.4033660888672
+  },
+  {
+    "frame": 515,
+    "tracker_id": -1,
+    "position_x": -2594.3994140625,
+    "position_y": 3004.7888671875,
+    "direction_deg": 82.12332153320312
+  },
+  {
+    "frame": 516,
+    "tracker_id": -1,
+    "position_x": -2600.407421875,
+    "position_y": 3000.633837890625,
+    "direction_deg": 82.92884826660156
+  },
+  {
+    "frame": 517,
+    "tracker_id": -1,
+    "position_x": -2606.75654296875,
+    "position_y": 2993.419024658203,
+    "direction_deg": 99.86752319335938
+  },
+  {
+    "frame": 518,
+    "tracker_id": -1,
+    "position_x": -2610.52490234375,
+    "position_y": 2981.1455322265624,
+    "direction_deg": -164.2725067138672
+  },
+  {
+    "frame": 519,
+    "tracker_id": -1,
+    "position_x": -2616.330029296875,
+    "position_y": 2969.2372497558595,
+    "direction_deg": 91.33097076416016
+  },
+  {
+    "frame": 520,
+    "tracker_id": -1,
+    "position_x": -2620.8904296875,
+    "position_y": 2959.190362548828,
+    "direction_deg": 88.20378875732422
+  },
+  {
+    "frame": 521,
+    "tracker_id": -1,
+    "position_x": -2624.855712890625,
+    "position_y": 2949.77431640625,
+    "direction_deg": 91.05492401123048
+  },
+  {
+    "frame": 522,
+    "tracker_id": -1,
+    "position_x": -2628.967529296875,
+    "position_y": 2940.7861572265624,
+    "direction_deg": 79.04004669189453
+  },
+  {
+    "frame": 523,
+    "tracker_id": -1,
+    "position_x": -2635.434228515625,
+    "position_y": 2935.0245727539063,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 524,
+    "tracker_id": -1,
+    "position_x": -2642.213232421875,
+    "position_y": 2926.9372619628907,
+    "direction_deg": 101.77444458007812
+  },
+  {
+    "frame": 525,
+    "tracker_id": -1,
+    "position_x": -2648.66826171875,
+    "position_y": 2919.88564453125,
+    "direction_deg": 51.76286697387695
+  },
+  {
+    "frame": 526,
+    "tracker_id": -1,
+    "position_x": -2655.046337890625,
+    "position_y": 2912.6474060058595,
+    "direction_deg": 87.63362121582031
+  },
+  {
+    "frame": 527,
+    "tracker_id": -1,
+    "position_x": -2658.855859375,
+    "position_y": 2903.5142517089844,
+    "direction_deg": 103.99754333496094
+  },
+  {
+    "frame": 528,
+    "tracker_id": -1,
+    "position_x": -2664.80673828125,
+    "position_y": 2895.315478515625,
+    "direction_deg": -93.47509765625
+  },
+  {
+    "frame": 529,
+    "tracker_id": -1,
+    "position_x": -2668.321142578125,
+    "position_y": 2890.2692260742188,
+    "direction_deg": 69.59551239013672
+  },
+  {
+    "frame": 530,
+    "tracker_id": -1,
+    "position_x": -2672.95869140625,
+    "position_y": 2884.9103942871093,
+    "direction_deg": 168.4395751953125
+  },
+  {
+    "frame": 531,
+    "tracker_id": -1,
+    "position_x": -2681.631591796875,
+    "position_y": 2877.647082519531,
+    "direction_deg": 123.16929626464844
+  },
+  {
+    "frame": 532,
+    "tracker_id": -1,
+    "position_x": -2690.96240234375,
+    "position_y": 2873.571875,
+    "direction_deg": 160.76451110839844
+  },
+  {
+    "frame": 533,
+    "tracker_id": -1,
+    "position_x": -2699.908203125,
+    "position_y": 2868.4890991210937,
+    "direction_deg": 146.387451171875
+  },
+  {
+    "frame": 534,
+    "tracker_id": -1,
+    "position_x": -2708.310498046875,
+    "position_y": 2864.764440917969,
+    "direction_deg": 63.58006286621094
+  },
+  {
+    "frame": 535,
+    "tracker_id": -1,
+    "position_x": -2716.673193359375,
+    "position_y": 2857.4057373046876,
+    "direction_deg": 167.44189453125
+  },
+  {
+    "frame": 536,
+    "tracker_id": -1,
+    "position_x": -2722.1978515625,
+    "position_y": 2853.45634765625,
+    "direction_deg": -82.5851821899414
+  },
+  {
+    "frame": 537,
+    "tracker_id": -1,
+    "position_x": -2729.264794921875,
+    "position_y": 2848.5727783203124,
+    "direction_deg": -34.374446868896484
+  },
+  {
+    "frame": 538,
+    "tracker_id": -1,
+    "position_x": -2734.26396484375,
+    "position_y": 2841.617822265625,
+    "direction_deg": 73.73385620117188
+  },
+  {
+    "frame": 539,
+    "tracker_id": -1,
+    "position_x": -2739.812060546875,
+    "position_y": 2829.526416015625,
+    "direction_deg": -39.460426330566406
+  },
+  {
+    "frame": 540,
+    "tracker_id": -1,
+    "position_x": -2746.2595703125,
+    "position_y": 2820.1655151367186,
+    "direction_deg": -17.64144515991211
+  },
+  {
+    "frame": 541,
+    "tracker_id": -1,
+    "position_x": -2751.827685546875,
+    "position_y": 2810.478967285156,
+    "direction_deg": -70.27960968017578
+  },
+  {
+    "frame": 542,
+    "tracker_id": -1,
+    "position_x": -2756.919189453125,
+    "position_y": 2802.95244140625,
+    "direction_deg": 57.925594329833984
+  },
+  {
+    "frame": 543,
+    "tracker_id": -1,
+    "position_x": -2761.220654296875,
+    "position_y": 2794.6957275390623,
+    "direction_deg": -91.72002410888672
+  },
+  {
+    "frame": 544,
+    "tracker_id": -1,
+    "position_x": -2766.3419921875,
+    "position_y": 2791.844580078125,
+    "direction_deg": -5.526193141937256
+  },
+  {
+    "frame": 545,
+    "tracker_id": -1,
+    "position_x": -2773.5109375,
+    "position_y": 2799.4556396484377,
+    "direction_deg": 46.49519729614258
+  },
+  {
+    "frame": 546,
+    "tracker_id": -1,
+    "position_x": -2780.07470703125,
+    "position_y": 2807.02119140625,
+    "direction_deg": -42.85748291015625
+  },
+  {
+    "frame": 547,
+    "tracker_id": -1,
+    "position_x": -2786.526904296875,
+    "position_y": 2809.2004150390626,
+    "direction_deg": -67.15711975097656
+  },
+  {
+    "frame": 548,
+    "tracker_id": -1,
+    "position_x": -2793.32080078125,
+    "position_y": 2813.7650634765623,
+    "direction_deg": -36.68564224243164
+  },
+  {
+    "frame": 549,
+    "tracker_id": -1,
+    "position_x": -2798.63125,
+    "position_y": 2817.804235839844,
+    "direction_deg": 19.73870849609375
+  },
+  {
+    "frame": 550,
+    "tracker_id": -1,
+    "position_x": -2799.780517578125,
+    "position_y": 2810.3746704101563,
+    "direction_deg": 37.08216094970703
+  },
+  {
+    "frame": 551,
+    "tracker_id": -1,
+    "position_x": -2802.23349609375,
+    "position_y": 2799.673583984375,
+    "direction_deg": 28.160619735717773
+  },
+  {
+    "frame": 552,
+    "tracker_id": -1,
+    "position_x": -2805.93154296875,
+    "position_y": 2794.228564453125,
+    "direction_deg": 33.941986083984375
+  },
+  {
+    "frame": 553,
+    "tracker_id": -1,
+    "position_x": -2808.851123046875,
+    "position_y": 2793.4326782226562,
+    "direction_deg": 46.4811897277832
+  },
+  {
+    "frame": 554,
+    "tracker_id": -1,
+    "position_x": -2812.904541015625,
+    "position_y": 2791.387829589844,
+    "direction_deg": -67.81571197509766
+  },
+  {
+    "frame": 555,
+    "tracker_id": -1,
+    "position_x": -2817.666357421875,
+    "position_y": 2789.562255859375,
+    "direction_deg": -56.571754455566406
+  },
+  {
+    "frame": 556,
+    "tracker_id": -1,
+    "position_x": -2821.835986328125,
+    "position_y": 2791.269482421875,
+    "direction_deg": -35.4407844543457
+  },
+  {
+    "frame": 557,
+    "tracker_id": -1,
+    "position_x": -2824.360986328125,
+    "position_y": 2792.9318603515626,
+    "direction_deg": 21.200611114501957
+  },
+  {
+    "frame": 558,
+    "tracker_id": -1,
+    "position_x": -2827.21806640625,
+    "position_y": 2785.765417480469,
+    "direction_deg": 4.261265277862549
+  },
+  {
+    "frame": 559,
+    "tracker_id": -1,
+    "position_x": -2828.459814453125,
+    "position_y": 2781.494104003906,
+    "direction_deg": 15.907917976379396
+  },
+  {
+    "frame": 560,
+    "tracker_id": -1,
+    "position_x": -2831.821337890625,
+    "position_y": 2780.9253173828124,
+    "direction_deg": 64.33037567138672
+  },
+  {
+    "frame": 561,
+    "tracker_id": -1,
+    "position_x": -2836.43212890625,
+    "position_y": 2775.510693359375,
+    "direction_deg": -49.13338088989258
+  },
+  {
+    "frame": 562,
+    "tracker_id": -1,
+    "position_x": -2840.911328125,
+    "position_y": 2766.48583984375,
+    "direction_deg": -78.82855987548828
+  },
+  {
+    "frame": 563,
+    "tracker_id": -1,
+    "position_x": -2846.84697265625,
+    "position_y": 2760.86923828125,
+    "direction_deg": 54.21512222290039
+  },
+  {
+    "frame": 564,
+    "tracker_id": -1,
+    "position_x": -2856.559228515625,
+    "position_y": 2752.221887207031,
+    "direction_deg": 48.98511505126953
+  },
+  {
+    "frame": 565,
+    "tracker_id": -1,
+    "position_x": -2863.886376953125,
+    "position_y": 2742.0029541015624,
+    "direction_deg": 138.37942504882812
+  },
+  {
+    "frame": 566,
+    "tracker_id": -1,
+    "position_x": -2869.616943359375,
+    "position_y": 2735.421520996094,
+    "direction_deg": 121.17047119140624
+  },
+  {
+    "frame": 567,
+    "tracker_id": -1,
+    "position_x": -2880.78623046875,
+    "position_y": 2729.6132690429686,
+    "direction_deg": 89.52924346923828
+  },
+  {
+    "frame": 568,
+    "tracker_id": -1,
+    "position_x": -2892.172216796875,
+    "position_y": 2726.447961425781,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 569,
+    "tracker_id": -1,
+    "position_x": -2902.768359375,
+    "position_y": 2726.39736328125,
+    "direction_deg": 108.45722198486328
+  },
+  {
+    "frame": 570,
+    "tracker_id": -1,
+    "position_x": -2913.817578125,
+    "position_y": 2723.940710449219,
+    "direction_deg": 93.9994659423828
+  },
+  {
+    "frame": 571,
+    "tracker_id": -1,
+    "position_x": -2924.50166015625,
+    "position_y": 2716.142529296875,
+    "direction_deg": -137.64266967773438
+  },
+  {
+    "frame": 572,
+    "tracker_id": -1,
+    "position_x": -2930.045751953125,
+    "position_y": 2708.5329711914064,
+    "direction_deg": 84.13876342773438
+  },
+  {
+    "frame": 573,
+    "tracker_id": -1,
+    "position_x": -2934.268212890625,
+    "position_y": 2700.9146362304687,
+    "direction_deg": 81.1933822631836
+  },
+  {
+    "frame": 574,
+    "tracker_id": -1,
+    "position_x": -2937.141015625,
+    "position_y": 2691.715124511719,
+    "direction_deg": 88.62630462646484
+  },
+  {
+    "frame": 575,
+    "tracker_id": -1,
+    "position_x": -2939.949853515625,
+    "position_y": 2685.1538696289062,
+    "direction_deg": 88.5785903930664
+  },
+  {
+    "frame": 576,
+    "tracker_id": -1,
+    "position_x": -2945.618115234375,
+    "position_y": 2685.5950439453127,
+    "direction_deg": -79.0551986694336
+  },
+  {
+    "frame": 577,
+    "tracker_id": -1,
+    "position_x": -2952.692236328125,
+    "position_y": 2687.730419921875,
+    "direction_deg": 173.94261169433594
+  },
+  {
+    "frame": 578,
+    "tracker_id": -1,
+    "position_x": -2960.638037109375,
+    "position_y": 2689.4461181640627,
+    "direction_deg": -127.3223114013672
+  },
+  {
+    "frame": 579,
+    "tracker_id": -1,
+    "position_x": -2968.74697265625,
+    "position_y": 2686.929736328125,
+    "direction_deg": 151.4862060546875
+  },
+  {
+    "frame": 580,
+    "tracker_id": -1,
+    "position_x": -2977.33544921875,
+    "position_y": 2685.8110473632814,
+    "direction_deg": 100.78643035888672
+  },
+  {
+    "frame": 581,
+    "tracker_id": -1,
+    "position_x": -2984.483642578125,
+    "position_y": 2681.1394653320312,
+    "direction_deg": 83.63905334472656
+  },
+  {
+    "frame": 582,
+    "tracker_id": -1,
+    "position_x": -2991.142822265625,
+    "position_y": 2675.297412109375,
+    "direction_deg": 16.108413696289062
+  },
+  {
+    "frame": 583,
+    "tracker_id": -1,
+    "position_x": -2998.29541015625,
+    "position_y": 2667.422900390625,
+    "direction_deg": 74.4553451538086
+  },
+  {
+    "frame": 584,
+    "tracker_id": -1,
+    "position_x": -3003.759521484375,
+    "position_y": 2663.4367553710936,
+    "direction_deg": 75.06449127197266
+  },
+  {
+    "frame": 585,
+    "tracker_id": -1,
+    "position_x": -3009.20166015625,
+    "position_y": 2657.5187377929688,
+    "direction_deg": 76.76226043701172
+  },
+  {
+    "frame": 586,
+    "tracker_id": -1,
+    "position_x": -3010.0365234375,
+    "position_y": 2649.595812988281,
+    "direction_deg": -4.669829368591309
+  },
+  {
+    "frame": 587,
+    "tracker_id": -1,
+    "position_x": -3007.5783203125,
+    "position_y": 2641.2239379882812,
+    "direction_deg": 64.10575866699219
+  },
+  {
+    "frame": 588,
+    "tracker_id": -1,
+    "position_x": -2998.48701171875,
+    "position_y": 2626.2682983398436,
+    "direction_deg": 56.27751922607422
+  },
+  {
+    "frame": 589,
+    "tracker_id": -1,
+    "position_x": -2988.971533203125,
+    "position_y": 2610.1746459960937,
+    "direction_deg": 54.86256790161133
+  },
+  {
+    "frame": 590,
+    "tracker_id": -1,
+    "position_x": -2975.5396484375,
+    "position_y": 2592.7499877929686,
+    "direction_deg": 60.554786682128906
+  },
+  {
+    "frame": 591,
+    "tracker_id": -1,
+    "position_x": -2962.619384765625,
+    "position_y": 2573.1491943359374,
+    "direction_deg": 42.91572570800781
+  },
+  {
+    "frame": 592,
+    "tracker_id": -1,
+    "position_x": -2949.067041015625,
+    "position_y": 2550.6573120117187,
+    "direction_deg": 29.96364974975586
+  },
+  {
+    "frame": 593,
+    "tracker_id": -1,
+    "position_x": -2936.897314453125,
+    "position_y": 2533.4294555664064,
+    "direction_deg": 62.78923034667969
+  },
+  {
+    "frame": 594,
+    "tracker_id": -1,
+    "position_x": -2925.571044921875,
+    "position_y": 2515.8750244140624,
+    "direction_deg": 62.70967102050781
+  },
+  {
+    "frame": 595,
+    "tracker_id": -1,
+    "position_x": -2912.795263671875,
+    "position_y": 2492.7263793945312,
+    "direction_deg": 59.954856872558594
+  },
+  {
+    "frame": 596,
+    "tracker_id": -1,
+    "position_x": -2902.182275390625,
+    "position_y": 2472.4737548828125,
+    "direction_deg": 49.20027160644531
+  },
+  {
+    "frame": 597,
+    "tracker_id": -1,
+    "position_x": -2892.387255859375,
+    "position_y": 2453.5628540039065,
+    "direction_deg": 65.2367935180664
+  },
+  {
+    "frame": 598,
+    "tracker_id": -1,
+    "position_x": -2883.2986328125,
+    "position_y": 2435.1907348632812,
+    "direction_deg": 61.76893615722656
+  },
+  {
+    "frame": 599,
+    "tracker_id": -1,
+    "position_x": -2872.316845703125,
+    "position_y": 2413.0759887695312,
+    "direction_deg": 62.5332260131836
+  },
+  {
+    "frame": 600,
+    "tracker_id": -1,
+    "position_x": -2864.129541015625,
+    "position_y": 2395.2881591796877,
+    "direction_deg": 56.6585807800293
+  },
+  {
+    "frame": 601,
+    "tracker_id": -1,
+    "position_x": -2855.7826171875,
+    "position_y": 2377.920141601562,
+    "direction_deg": 68.06417083740234
+  },
+  {
+    "frame": 602,
+    "tracker_id": -1,
+    "position_x": -2848.85419921875,
+    "position_y": 2364.217980957031,
+    "direction_deg": 65.46896362304688
+  },
+  {
+    "frame": 603,
+    "tracker_id": -1,
+    "position_x": -2842.4046875,
+    "position_y": 2349.92802734375,
+    "direction_deg": 66.84302520751953
+  },
+  {
+    "frame": 604,
+    "tracker_id": -1,
+    "position_x": -2836.803955078125,
+    "position_y": 2336.3526123046877,
+    "direction_deg": 55.73376083374024
+  },
+  {
+    "frame": 605,
+    "tracker_id": -1,
+    "position_x": -2831.66533203125,
+    "position_y": 2325.2302734375,
+    "direction_deg": 65.1715316772461
+  },
+  {
+    "frame": 606,
+    "tracker_id": -1,
+    "position_x": -2827.440283203125,
+    "position_y": 2311.8222412109376,
+    "direction_deg": 67.06473541259766
+  },
+  {
+    "frame": 607,
+    "tracker_id": -1,
+    "position_x": -2825.67421875,
+    "position_y": 2294.227197265625,
+    "direction_deg": 44.90155792236328
+  },
+  {
+    "frame": 608,
+    "tracker_id": -1,
+    "position_x": -2825.971826171875,
+    "position_y": 2275.924609375,
+    "direction_deg": 86.49729919433594
+  },
+  {
+    "frame": 609,
+    "tracker_id": -1,
+    "position_x": -2829.16982421875,
+    "position_y": 2255.1087158203127,
+    "direction_deg": 115.75623321533205
+  },
+  {
+    "frame": 610,
+    "tracker_id": -1,
+    "position_x": -2831.704443359375,
+    "position_y": 2224.7738525390623,
+    "direction_deg": 93.21320343017578
+  },
+  {
+    "frame": 611,
+    "tracker_id": -1,
+    "position_x": -2834.672802734375,
+    "position_y": 2195.0821044921877,
+    "direction_deg": 93.29571533203124
+  },
+  {
+    "frame": 612,
+    "tracker_id": -1,
+    "position_x": -2836.960986328125,
+    "position_y": 2163.971923828125,
+    "direction_deg": 84.46334075927734
+  },
+  {
+    "frame": 613,
+    "tracker_id": -1,
+    "position_x": -2840.988525390625,
+    "position_y": 2134.376318359375,
+    "direction_deg": 96.2688446044922
+  },
+  {
+    "frame": 614,
+    "tracker_id": -1,
+    "position_x": -2843.536328125,
+    "position_y": 2105.2995361328126,
+    "direction_deg": 99.10433959960938
+  },
+  {
+    "frame": 615,
+    "tracker_id": -1,
+    "position_x": -2847.208837890625,
+    "position_y": 2078.8206298828127,
+    "direction_deg": 103.3984375
+  },
+  {
+    "frame": 616,
+    "tracker_id": -1,
+    "position_x": -2851.86845703125,
+    "position_y": 2054.5718994140625,
+    "direction_deg": 91.17864227294922
+  },
+  {
+    "frame": 617,
+    "tracker_id": -1,
+    "position_x": -2855.7,
+    "position_y": 2031.1655517578124,
+    "direction_deg": 92.49181365966795
+  },
+  {
+    "frame": 618,
+    "tracker_id": -1,
+    "position_x": -2857.332177734375,
+    "position_y": 2003.2510498046877,
+    "direction_deg": 102.58709716796876
+  },
+  {
+    "frame": 619,
+    "tracker_id": -1,
+    "position_x": -2859.49072265625,
+    "position_y": 1978.88662109375,
+    "direction_deg": 90.7431182861328
+  },
+  {
+    "frame": 620,
+    "tracker_id": -1,
+    "position_x": -2861.197314453125,
+    "position_y": 1955.23515625,
+    "direction_deg": 84.69707489013672
+  },
+  {
+    "frame": 621,
+    "tracker_id": -1,
+    "position_x": -2862.167333984375,
+    "position_y": 1934.467041015625,
+    "direction_deg": 151.98855590820312
+  },
+  {
+    "frame": 622,
+    "tracker_id": -1,
+    "position_x": -2863.19228515625,
+    "position_y": 1913.2052001953125,
+    "direction_deg": 98.4542007446289
+  },
+  {
+    "frame": 623,
+    "tracker_id": -1,
+    "position_x": -2863.896875,
+    "position_y": 1893.909375,
+    "direction_deg": 98.03826141357422
+  },
+  {
+    "frame": 624,
+    "tracker_id": -1,
+    "position_x": -2862.5619140625,
+    "position_y": 1873.693701171875,
+    "direction_deg": 92.06192779541016
+  },
+  {
+    "frame": 625,
+    "tracker_id": -1,
+    "position_x": -2860.779541015625,
+    "position_y": 1855.951123046875,
+    "direction_deg": 81.34088897705078
+  },
+  {
+    "frame": 626,
+    "tracker_id": -1,
+    "position_x": -2858.95009765625,
+    "position_y": 1836.016943359375,
+    "direction_deg": 75.45366668701172
+  },
+  {
+    "frame": 627,
+    "tracker_id": -1,
+    "position_x": -2855.1744140625,
+    "position_y": 1817.0752197265624,
+    "direction_deg": 87.95819854736328
+  },
+  {
+    "frame": 628,
+    "tracker_id": -1,
+    "position_x": -2852.325732421875,
+    "position_y": 1798.9603515625,
+    "direction_deg": 72.21025848388672
+  },
+  {
+    "frame": 629,
+    "tracker_id": -1,
+    "position_x": -2853.16103515625,
+    "position_y": 1781.3100341796876,
+    "direction_deg": 79.17169952392578
+  },
+  {
+    "frame": 630,
+    "tracker_id": -1,
+    "position_x": -2854.532470703125,
+    "position_y": 1762.155078125,
+    "direction_deg": 79.45381927490234
+  },
+  {
+    "frame": 631,
+    "tracker_id": -1,
+    "position_x": -2856.24873046875,
+    "position_y": 1741.506591796875,
+    "direction_deg": 81.9508056640625
+  },
+  {
+    "frame": 632,
+    "tracker_id": -1,
+    "position_x": -2858.422412109375,
+    "position_y": 1721.819921875,
+    "direction_deg": 72.87825775146484
+  },
+  {
+    "frame": 633,
+    "tracker_id": -1,
+    "position_x": -2862.55615234375,
+    "position_y": 1706.4251708984375,
+    "direction_deg": 78.81916046142578
+  },
+  {
+    "frame": 634,
+    "tracker_id": -1,
+    "position_x": -2860.800390625,
+    "position_y": 1690.077685546875,
+    "direction_deg": 69.90831756591797
+  },
+  {
+    "frame": 635,
+    "tracker_id": -1,
+    "position_x": -2860.13193359375,
+    "position_y": 1674.56044921875,
+    "direction_deg": 70.97737884521484
+  },
+  {
+    "frame": 636,
+    "tracker_id": -1,
+    "position_x": -2858.6572265625,
+    "position_y": 1658.2158203125,
+    "direction_deg": 69.16179656982422
+  },
+  {
+    "frame": 637,
+    "tracker_id": -1,
+    "position_x": -2858.24482421875,
+    "position_y": 1640.9578857421875,
+    "direction_deg": 72.5311508178711
+  },
+  {
+    "frame": 638,
+    "tracker_id": -1,
+    "position_x": -2854.729541015625,
+    "position_y": 1621.2882568359375,
+    "direction_deg": 65.29850006103516
+  },
+  {
+    "frame": 639,
+    "tracker_id": -1,
+    "position_x": -2853.362158203125,
+    "position_y": 1603.2130126953125,
+    "direction_deg": 61.20117568969727
+  },
+  {
+    "frame": 640,
+    "tracker_id": -1,
+    "position_x": -2853.07509765625,
+    "position_y": 1584.9794677734376,
+    "direction_deg": 61.843841552734375
+  },
+  {
+    "frame": 641,
+    "tracker_id": -1,
+    "position_x": -2849.56650390625,
+    "position_y": 1566.5576171875,
+    "direction_deg": 59.28042602539063
+  },
+  {
+    "frame": 642,
+    "tracker_id": -1,
+    "position_x": -2845.419677734375,
+    "position_y": 1552.713232421875,
+    "direction_deg": 51.772579193115234
+  },
+  {
+    "frame": 643,
+    "tracker_id": -1,
+    "position_x": -2840.62470703125,
+    "position_y": 1535.6255126953124,
+    "direction_deg": 42.648231506347656
+  },
+  {
+    "frame": 644,
+    "tracker_id": -1,
+    "position_x": -2834.925341796875,
+    "position_y": 1515.83720703125,
+    "direction_deg": 24.25375366210937
+  },
+  {
+    "frame": 645,
+    "tracker_id": -1,
+    "position_x": -2827.5794921875,
+    "position_y": 1497.15390625,
+    "direction_deg": 57.2766227722168
+  },
+  {
+    "frame": 646,
+    "tracker_id": -1,
+    "position_x": -2820.93076171875,
+    "position_y": 1476.9699462890624,
+    "direction_deg": 50.24874877929688
+  },
+  {
+    "frame": 647,
+    "tracker_id": -1,
+    "position_x": -2815.695751953125,
+    "position_y": 1455.88779296875,
+    "direction_deg": 44.69446563720703
+  },
+  {
+    "frame": 648,
+    "tracker_id": -1,
+    "position_x": -2809.98955078125,
+    "position_y": 1432.5580810546876,
+    "direction_deg": 46.81624603271485
+  },
+  {
+    "frame": 649,
+    "tracker_id": -1,
+    "position_x": -2805.852392578125,
+    "position_y": 1406.26640625,
+    "direction_deg": 37.23141479492188
+  },
+  {
+    "frame": 650,
+    "tracker_id": -1,
+    "position_x": -2798.169677734375,
+    "position_y": 1379.6388671875,
+    "direction_deg": 20.6362247467041
+  },
+  {
+    "frame": 651,
+    "tracker_id": -1,
+    "position_x": -2791.746044921875,
+    "position_y": 1355.129736328125,
+    "direction_deg": 34.49420547485352
+  },
+  {
+    "frame": 652,
+    "tracker_id": -1,
+    "position_x": -2782.462939453125,
+    "position_y": 1328.6403320312502,
+    "direction_deg": 37.65927505493164
+  },
+  {
+    "frame": 653,
+    "tracker_id": -1,
+    "position_x": -2774.359716796875,
+    "position_y": 1308.625732421875,
+    "direction_deg": 41.05358505249024
+  },
+  {
+    "frame": 654,
+    "tracker_id": -1,
+    "position_x": -2764.22890625,
+    "position_y": 1290.841796875,
+    "direction_deg": 44.73286437988281
+  },
+  {
+    "frame": 655,
+    "tracker_id": -1,
+    "position_x": -2756.820947265625,
+    "position_y": 1274.1592285156248,
+    "direction_deg": 34.48084259033203
+  },
+  {
+    "frame": 656,
+    "tracker_id": -1,
+    "position_x": -2748.084619140625,
+    "position_y": 1254.484716796875,
+    "direction_deg": 49.6298942565918
+  },
+  {
+    "frame": 657,
+    "tracker_id": -1,
+    "position_x": -2737.27724609375,
+    "position_y": 1232.64951171875,
+    "direction_deg": 42.17744064331055
+  },
+  {
+    "frame": 658,
+    "tracker_id": -1,
+    "position_x": -2726.26806640625,
+    "position_y": 1211.4538085937502,
+    "direction_deg": 52.72850036621094
+  },
+  {
+    "frame": 659,
+    "tracker_id": -1,
+    "position_x": -2718.445556640625,
+    "position_y": 1193.3085449218752,
+    "direction_deg": 46.43835067749024
+  },
+  {
+    "frame": 660,
+    "tracker_id": -1,
+    "position_x": -2711.152197265625,
+    "position_y": 1176.513671875,
+    "direction_deg": 46.53221893310547
+  },
+  {
+    "frame": 661,
+    "tracker_id": -1,
+    "position_x": -2705.056005859375,
+    "position_y": 1160.781494140625,
+    "direction_deg": 40.7863655090332
+  },
+  {
+    "frame": 662,
+    "tracker_id": -1,
+    "position_x": -2703.4837890625,
+    "position_y": 1150.7249023437498,
+    "direction_deg": 54.83319091796875
+  },
+  {
+    "frame": 663,
+    "tracker_id": -1,
+    "position_x": -2702.726025390625,
+    "position_y": 1141.667138671875,
+    "direction_deg": 48.9979248046875
+  },
+  {
+    "frame": 664,
+    "tracker_id": -1,
+    "position_x": -2718.803955078125,
+    "position_y": 1154.3539550781252,
+    "direction_deg": -40.51993560791016
+  },
+  {
+    "frame": 665,
+    "tracker_id": -1,
+    "position_x": -2740.122705078125,
+    "position_y": 1174.950341796875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 666,
+    "tracker_id": -1,
+    "position_x": -2770.1482421875,
+    "position_y": 1206.43837890625,
+    "direction_deg": -126.77590942382812
+  },
+  {
+    "frame": 667,
+    "tracker_id": -1,
+    "position_x": -2806.130419921875,
+    "position_y": 1239.8359863281248,
+    "direction_deg": -128.35003662109375
+  },
+  {
+    "frame": 668,
+    "tracker_id": -1,
+    "position_x": -2848.984326171875,
+    "position_y": 1276.517822265625,
+    "direction_deg": -137.9785614013672
+  },
+  {
+    "frame": 669,
+    "tracker_id": -1,
+    "position_x": -2881.5666015625,
+    "position_y": 1296.289892578125,
+    "direction_deg": -148.18540954589844
+  },
+  {
+    "frame": 670,
+    "tracker_id": -1,
+    "position_x": -2915.560400390625,
+    "position_y": 1311.736181640625,
+    "direction_deg": -151.91627502441406
+  },
+  {
+    "frame": 671,
+    "tracker_id": -1,
+    "position_x": -2942.19306640625,
+    "position_y": 1321.5894042968748,
+    "direction_deg": -154.7296142578125
+  },
+  {
+    "frame": 672,
+    "tracker_id": -1,
+    "position_x": -2962.29345703125,
+    "position_y": 1328.5181152343748,
+    "direction_deg": -166.7196807861328
+  },
+  {
+    "frame": 673,
+    "tracker_id": -1,
+    "position_x": -2990.8796875,
+    "position_y": 1321.776123046875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 674,
+    "tracker_id": -1,
+    "position_x": -3017.53564453125,
+    "position_y": 1304.5979492187498,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 675,
+    "tracker_id": -1,
+    "position_x": -3041.77646484375,
+    "position_y": 1278.761083984375,
+    "direction_deg": 147.94644165039062
+  },
+  {
+    "frame": 676,
+    "tracker_id": -1,
+    "position_x": -3068.80517578125,
+    "position_y": 1242.27880859375,
+    "direction_deg": 111.80069732666016
+  },
+  {
+    "frame": 677,
+    "tracker_id": -1,
+    "position_x": -3099.10263671875,
+    "position_y": 1194.52529296875,
+    "direction_deg": 116.76486206054688
+  },
+  {
+    "frame": 678,
+    "tracker_id": -1,
+    "position_x": -3115.552978515625,
+    "position_y": 1143.31533203125,
+    "direction_deg": 109.96180725097656
+  },
+  {
+    "frame": 679,
+    "tracker_id": -1,
+    "position_x": -3126.352783203125,
+    "position_y": 1082.6388671875002,
+    "direction_deg": 108.57334899902344
+  },
+  {
+    "frame": 680,
+    "tracker_id": -1,
+    "position_x": -3135.596728515625,
+    "position_y": 1014.0589355468751,
+    "direction_deg": 104.62706756591795
+  },
+  {
+    "frame": 681,
+    "tracker_id": -1,
+    "position_x": -3144.193408203125,
+    "position_y": 940.674072265625,
+    "direction_deg": 92.74769592285156
+  },
+  {
+    "frame": 682,
+    "tracker_id": -1,
+    "position_x": -3152.28974609375,
+    "position_y": 864.409912109375,
+    "direction_deg": 99.69059753417967
+  },
+  {
+    "frame": 683,
+    "tracker_id": -1,
+    "position_x": -3156.66591796875,
+    "position_y": 779.5041015625002,
+    "direction_deg": 98.36672973632812
+  },
+  {
+    "frame": 684,
+    "tracker_id": -1,
+    "position_x": -3160.758935546875,
+    "position_y": 688.2389648437502,
+    "direction_deg": 99.5606460571289
+  },
+  {
+    "frame": 685,
+    "tracker_id": -1,
+    "position_x": -3161.223046875,
+    "position_y": 592.8111328125001,
+    "direction_deg": 88.49956512451172
+  },
+  {
+    "frame": 686,
+    "tracker_id": -1,
+    "position_x": -3157.09833984375,
+    "position_y": 490.811279296875,
+    "direction_deg": 86.87332153320312
+  },
+  {
+    "frame": 687,
+    "tracker_id": -1,
+    "position_x": -3150.205224609375,
+    "position_y": 402.9619628906248,
+    "direction_deg": 89.90644073486328
+  },
+  {
+    "frame": 688,
+    "tracker_id": -1,
+    "position_x": -3141.61533203125,
+    "position_y": 285.55078125,
+    "direction_deg": 88.0377197265625
+  },
+  {
+    "frame": 689,
+    "tracker_id": -1,
+    "position_x": -3133.9923828125,
+    "position_y": 192.21074218749982,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 690,
+    "tracker_id": -1,
+    "position_x": -3127.6376953125,
+    "position_y": 118.14194335937509,
+    "direction_deg": 84.13809967041016
+  },
+  {
+    "frame": 691,
+    "tracker_id": -1,
+    "position_x": -3114.952685546875,
+    "position_y": -11.309814453125,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 692,
+    "tracker_id": -1,
+    "position_x": -3101.463916015625,
+    "position_y": -162.51533203125018,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 693,
+    "tracker_id": -1,
+    "position_x": -3086.709228515625,
+    "position_y": -292.5098144531248,
+    "direction_deg": 83.30927276611328
+  },
+  {
+    "frame": 694,
+    "tracker_id": -1,
+    "position_x": -3067.12333984375,
+    "position_y": -449.2891601562501,
+    "direction_deg": 82.37177276611328
+  },
+  {
+    "frame": 695,
+    "tracker_id": -1,
+    "position_x": -3040.464599609375,
+    "position_y": -637.2003417968749,
+    "direction_deg": 79.7264633178711
+  },
+  {
+    "frame": 696,
+    "tracker_id": -1,
+    "position_x": -3017.198779296875,
+    "position_y": -774.7075683593748,
+    "direction_deg": 80.05034637451172
+  },
+  {
+    "frame": 697,
+    "tracker_id": -1,
+    "position_x": -2989.366943359375,
+    "position_y": -916.1509765624996,
+    "direction_deg": 77.96338653564453
+  },
+  {
+    "frame": 698,
+    "tracker_id": -1,
+    "position_x": -2962.810498046875,
+    "position_y": -1051.5853515625004,
+    "direction_deg": 78.90599822998047
+  },
+  {
+    "frame": 699,
+    "tracker_id": -1,
+    "position_x": -2799.471875,
+    "position_y": -1127.3883789062502,
+    "direction_deg": 79.70297241210938
+  },
+  {
+    "frame": 700,
+    "tracker_id": -1,
+    "position_x": -2771.61083984375,
+    "position_y": -1262.9461914062504,
+    "direction_deg": 77.01724243164062
+  },
+  {
+    "frame": 701,
+    "tracker_id": -1,
+    "position_x": -2741.27021484375,
+    "position_y": -1400.5250976562502,
+    "direction_deg": -12.745309829711914
+  },
+  {
+    "frame": 702,
+    "tracker_id": -1,
+    "position_x": -2717.523583984375,
+    "position_y": -1527.0464843749996,
+    "direction_deg": 144.97279357910156
+  },
+  {
+    "frame": 703,
+    "tracker_id": -1,
+    "position_x": -2705.406689453125,
+    "position_y": -1627.4195312499996,
+    "direction_deg": 73.9443359375
+  },
+  {
+    "frame": 704,
+    "tracker_id": -1,
+    "position_x": -2840.51962890625,
+    "position_y": -1760.7718750000004,
+    "direction_deg": 84.69036865234375
+  },
+  {
+    "frame": 705,
+    "tracker_id": -1,
+    "position_x": -2859.019140625,
+    "position_y": -1801.8548828125004,
+    "direction_deg": -160.14175415039062
+  },
+  {
+    "frame": 706,
+    "tracker_id": -1,
+    "position_x": -2888.692529296875,
+    "position_y": -1815.9812499999998,
+    "direction_deg": -177.31028747558594
+  },
+  {
+    "frame": 707,
+    "tracker_id": -1,
+    "position_x": -2921.792626953125,
+    "position_y": -1818.9738281250002,
+    "direction_deg": -173.5830078125
+  },
+  {
+    "frame": 708,
+    "tracker_id": -1,
+    "position_x": -2954.34013671875,
+    "position_y": -1825.8234375000002,
+    "direction_deg": 133.14788818359375
+  },
+  {
+    "frame": 709,
+    "tracker_id": -1,
+    "position_x": -2987.06796875,
+    "position_y": -1835.3443359374996,
+    "direction_deg": 148.45375061035156
+  },
+  {
+    "frame": 710,
+    "tracker_id": -1,
+    "position_x": -3012.162841796875,
+    "position_y": -1851.9917968749996,
+    "direction_deg": 161.18728637695312
+  },
+  {
+    "frame": 711,
+    "tracker_id": -1,
+    "position_x": -3036.65185546875,
+    "position_y": -1873.9239257812496,
+    "direction_deg": 152.4903106689453
+  },
+  {
+    "frame": 712,
+    "tracker_id": -1,
+    "position_x": -3060.747705078125,
+    "position_y": -1897.4109374999998,
+    "direction_deg": 116.84611511230467
+  },
+  {
+    "frame": 713,
+    "tracker_id": -1,
+    "position_x": -3081.143603515625,
+    "position_y": -1924.5919921875002,
+    "direction_deg": 115.60839080810548
+  },
+  {
+    "frame": 714,
+    "tracker_id": -1,
+    "position_x": -3069.008837890625,
+    "position_y": -2030.2666015625,
+    "direction_deg": 126.77294921875
+  },
+  {
+    "frame": 715,
+    "tracker_id": -1,
+    "position_x": -3052.71572265625,
+    "position_y": -2130.1973632812496,
+    "direction_deg": 104.21267700195312
+  },
+  {
+    "frame": 716,
+    "tracker_id": -1,
+    "position_x": -3033.719775390625,
+    "position_y": -2222.77763671875,
+    "direction_deg": 71.07905578613281
+  },
+  {
+    "frame": 717,
+    "tracker_id": -1,
+    "position_x": -3036.234423828125,
+    "position_y": -2290.5726562500004,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 718,
+    "tracker_id": -1,
+    "position_x": -3035.268896484375,
+    "position_y": -2352.1385742187504,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 719,
+    "tracker_id": -1,
+    "position_x": -3066.358447265625,
+    "position_y": -2335.5956054687504,
+    "direction_deg": -141.15017700195312
+  },
+  {
+    "frame": 720,
+    "tracker_id": -1,
+    "position_x": -3096.116796875,
+    "position_y": -2327.3783203125004,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 721,
+    "tracker_id": -1,
+    "position_x": -3123.172216796875,
+    "position_y": -2328.09521484375,
+    "direction_deg": 98.94834899902344
+  },
+  {
+    "frame": 722,
+    "tracker_id": -1,
+    "position_x": -3120.010498046875,
+    "position_y": -2359.0665039062496,
+    "direction_deg": 76.0361099243164
+  },
+  {
+    "frame": 723,
+    "tracker_id": -1,
+    "position_x": -3116.848779296875,
+    "position_y": -2390.03779296875,
+    "direction_deg": 67.4051513671875
+  },
+  {
+    "frame": 724,
+    "tracker_id": -1,
+    "position_x": -3108.365869140625,
+    "position_y": -2417.8203125,
+    "direction_deg": 68.85453033447266
+  },
+  {
+    "frame": 725,
+    "tracker_id": -1,
+    "position_x": -3101.21416015625,
+    "position_y": -2437.2771484375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 726,
+    "tracker_id": -1,
+    "position_x": -3096.765380859375,
+    "position_y": -2447.7998046875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 727,
+    "tracker_id": -1,
+    "position_x": -3096.765380859375,
+    "position_y": -2447.7998046875,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 728,
+    "tracker_id": -1,
+    "position_x": -3088.960400390625,
+    "position_y": -2443.93583984375,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 729,
+    "tracker_id": -1,
+    "position_x": -3080.3369140625,
+    "position_y": -2441.6580078125,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 730,
+    "tracker_id": -1,
+    "position_x": -3075.86220703125,
+    "position_y": -2437.3625,
+    "direction_deg": 0.0337393470108509
+  },
+  {
+    "frame": 731,
+    "tracker_id": -1,
+    "position_x": -3075.983935546875,
+    "position_y": -2429.0984375,
+    "direction_deg": 60.70405960083008
+  },
+  {
+    "frame": 732,
+    "tracker_id": -1,
+    "position_x": -3078.111767578125,
+    "position_y": -2419.31083984375,
+    "direction_deg": -135.8691864013672
+  },
+  {
+    "frame": 733,
+    "tracker_id": -1,
+    "position_x": -3090.896142578125,
+    "position_y": -2412.3390625,
+    "direction_deg": -124.14463806152344
+  },
+  {
+    "frame": 734,
+    "tracker_id": -1,
+    "position_x": -3106.351904296875,
+    "position_y": -2401.1161132812504,
+    "direction_deg": -140.10794067382812
+  },
+  {
+    "frame": 735,
+    "tracker_id": -1,
+    "position_x": -3115.00068359375,
+    "position_y": -2396.0093749999996,
+    "direction_deg": -128.62542724609375
+  },
+  {
+    "frame": 736,
+    "tracker_id": -1,
+    "position_x": -3118.784033203125,
+    "position_y": -2396.4078124999996,
+    "direction_deg": -142.15106201171875
+  },
+  {
+    "frame": 737,
+    "tracker_id": -1,
+    "position_x": -3122.282958984375,
+    "position_y": -2396.18310546875,
+    "direction_deg": 47.383094787597656
+  },
+  {
+    "frame": 738,
+    "tracker_id": -1,
+    "position_x": -3122.29306640625,
+    "position_y": -2398.7287109375,
+    "direction_deg": 39.48807907104492
+  },
+  {
+    "frame": 739,
+    "tracker_id": -1,
+    "position_x": -3116.7287109375,
+    "position_y": -2410.1234375000004,
+    "direction_deg": 134.13275146484375
+  },
+  {
+    "frame": 740,
+    "tracker_id": -1,
+    "position_x": -3115.27880859375,
+    "position_y": -2419.6125,
+    "direction_deg": 60.7733039855957
+  },
+  {
+    "frame": 741,
+    "tracker_id": -1,
+    "position_x": -3113.4240234375,
+    "position_y": -2429.97802734375,
+    "direction_deg": 58.33849334716797
+  },
+  {
+    "frame": 742,
+    "tracker_id": -1,
+    "position_x": -3112.2404296875,
+    "position_y": -2440.46552734375,
+    "direction_deg": 54.41231918334961
+  },
+  {
+    "frame": 743,
+    "tracker_id": -1,
+    "position_x": -3114.28994140625,
+    "position_y": -2446.4332031249996,
+    "direction_deg": 60.31792831420898
+  },
+  {
+    "frame": 744,
+    "tracker_id": -1,
+    "position_x": -3121.1515625,
+    "position_y": -2444.5274414062496,
+    "direction_deg": -131.96058654785156
+  },
+  {
+    "frame": 745,
+    "tracker_id": -1,
+    "position_x": -3126.55693359375,
+    "position_y": -2440.4288085937496,
+    "direction_deg": -125.79476928710938
+  },
+  {
+    "frame": 746,
+    "tracker_id": -1,
+    "position_x": -3132.636181640625,
+    "position_y": -2433.9170898437496,
+    "direction_deg": -89.14169311523438
+  },
+  {
+    "frame": 747,
+    "tracker_id": -1,
+    "position_x": -3136.32255859375,
+    "position_y": -2429.4300781250004,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 748,
+    "tracker_id": -1,
+    "position_x": -3137.4130859375,
+    "position_y": -2427.74072265625,
+    "direction_deg": NaN
+  },
+  {
+    "frame": 749,
+    "tracker_id": -1,
+    "position_x": -3137.4130859375,
+    "position_y": -2427.74072265625,
+    "direction_deg": NaN
+  }
+]
