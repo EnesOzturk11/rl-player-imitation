@@ -1,0 +1,8 @@
+{
+  "timesteps": 200000,
+  "best_score": 15.51873210060452,
+  "avg_position_error": 890.6400801946071,
+  "avg_speed_ratio": 4050.632136558876,
+  "success_rate": 0.0,
+  "training_date": "2025-08-07 17:06:07"
+}
